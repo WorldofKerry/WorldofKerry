@@ -10,7 +10,7 @@ const entries = Array.from(
   // parse xxx.md to xxx
   const name = entry.split('.')[0]
   // replace space with dash
-  const route = name.replaceAll(' ', '-')
+  const route = name.replace(/ /g, '-')
   return { filePath: entry, route: route, name: name }
 })
 
