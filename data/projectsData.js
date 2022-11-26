@@ -15,29 +15,29 @@ const projectsData = [
   //   imgSrc: '/static/images/time-machine.jpg',
   //   href: '/blog/the-time-machine',
   // },
-  {
-    title: 'UBC Agrobot',
-    description: `Image recognition work for the UBC Agrobot Design Team`,
-    imgSrc: '',
-    href: '/blog/agrobot',
-  },
+  // {
+  //   title: 'UBC Agrobot',
+  //   description: `Image recognition work for the UBC Agrobot Design Team`,
+  //   imgSrc: '',
+  //   href: '/blog/agrobot',
+  // },
   {
     title: 'Cooking Speedrun',
     description: `Quick, nutritious, cheap, and delicious.`,
     imgSrc: '',
     href: 'https://www.instagram.com/cookingspeedrun/',
   },
+  // {
+  //   title: 'Favourite Quotes',
+  //   description: `A collection of my favourite quotes.`,
+  //   imgSrc: '',
+  //   href: '/blog/favourite-quotes',
+  // },
   {
-    title: 'Favourite Quotes',
-    description: `A collection of my favourite quotes.`,
+    title: 'Obsidian Garden',
+    description: `Notes from courses and life.`,
     imgSrc: '',
-    href: '/blog/favourite-quotes',
-  },
-  {
-    title: 'Computer Science Notes',
-    description: `Notes from my computer science courses.`,
-    imgSrc: '',
-    href: '/computer-science',
+    href: '/obsidian',
   },
 ]
 

@@ -25,7 +25,7 @@ export default function Graph({ graph }) {
     newNode.position = {}
     newNode.position.x = Math.round(node.position.x)
     newNode.position.y = Math.round(node.position.y)
-    newNode.data.href = 'computer-science/' + node.data.name.replaceAll(' ', '-')
+    newNode.data.href = 'obsidian/' + node.data.name.replaceAll(' ', '-')
     // newNode.data.href = 'example.com'
     return newNode
   })
@@ -49,7 +49,7 @@ export default function Graph({ graph }) {
         style={{
           width: '1000px',
           height: '1000px',
-          'background-color': theme === 'dark' || resolvedTheme === 'dark' ? '#171717' : '#ffffff',
+          backgroundColor: theme === 'dark' || resolvedTheme === 'dark' ? '#171717' : '#ffffff',
         }}
         stylesheet={[
           {
@@ -79,9 +79,7 @@ export default function Graph({ graph }) {
 }
 
 export async function getStaticProps() {
-  const graph = JSON.parse(
-    fs.readFileSync(path.join(root, 'public', 'static', 'graph.json'), 'utf8')
-  )
+  const graph = JSON.parse(fs.readFileSync(path.join(root, 'data', 'obsidian.json'), 'utf8'))
   return {
     props: {
       graph,
