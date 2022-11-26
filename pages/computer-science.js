@@ -1,10 +1,9 @@
-import dynamic from 'next/dynamic'
 import fs from 'fs'
-import path from 'path'
 import { useTheme } from 'next-themes'
-
-// const CytoscapeComponent = dynamic(import('react-cytoscapejs'), { ssr: false })
 import CytoscapeComponent from 'react-cytoscapejs'
+import path from 'path'
+
+const root = process.cwd()
 
 function fileNameFilter(fileName) {
   // Filter out xxxx-xx-xx in the file name
@@ -41,7 +40,6 @@ export default function Graph({ graph }) {
     newEdge.label = edge.data.context
     return newEdge
   })
-  console.log(nodes.slice(0, 1))
   const elements = [...nodes, ...edges]
   const { theme, resolvedTheme } = useTheme()
   return (
@@ -57,8 +55,8 @@ export default function Graph({ graph }) {
           {
             selector: 'node',
             style: {
-              shape: 'circle',
               label: 'data(label)',
+              color: theme === 'dark' || resolvedTheme === 'dark' ? '#ffffff' : '#000000',
             },
           },
           // {
@@ -72,6 +70,7 @@ export default function Graph({ graph }) {
           cy.on('tap', 'node', function (evt) {
             // redirect to the node's page
             window.location.href = evt.target.data('href')
+            // console.log(evt.target.style())
           })
         }}
       />
@@ -81,7 +80,7 @@ export default function Graph({ graph }) {
 
 export async function getStaticProps() {
   const graph = JSON.parse(
-    fs.readFileSync(path.join(process.cwd(), 'public', 'static', 'graph.json'), 'utf8')
+    fs.readFileSync(path.join(root, 'public', 'static', 'graph.json'), 'utf8')
   )
   return {
     props: {
