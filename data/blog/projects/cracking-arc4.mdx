@@ -1,0 +1,48 @@
+---
+title: 'Cracking ARC4'
+date: '2022-11-07'
+lastmod: '2022-11-07'
+tags: ['project', 'digital-logic', 'hardware', 'verilog']
+draft: false
+summary: 'Using a FPGA to crack ARC4 encrypted ascii text'
+layout: PostLayout
+---
+
+# Summary
+
+Using a FPGA to crack ARC4 encrypted ascii text
+
+## Key Takeaways
+
+- Using multiple on-chip memories
+- Correct read-enable interface
+- Concurrent modules with synchronous memories
+
+<br></br># Project Components ## Implemented Modules - ARC4 State Initilization (to setup memory) -
+Key-Scheduling Algorithm (KSA) - ARC4 Pseudo-Random Generation Algorithm (PRGA) - ARC4 Cracker (to
+crack encrypted text) - Concurrent ARC4 Cracker (using two modifier cracker modules)
+
+HDL code can be provided upon request, due to course policies.
+
+## Simulation
+
+- Full testbenchs for all modules using ModelSim Altera
+
+## Compilation
+
+- Quartus Prime
+
+## Hardware
+
+- De1-SoC FPGA
+
+## IP Modules
+
+- RAM 1-PORT (generated with Quartus Prime)
+
+## Provided Information
+
+- Pseudo-code for the algorithms
+
+<br />
+<br /># Results ![Cracking ARC4](/static/images/cracking-arc4.jpg)
