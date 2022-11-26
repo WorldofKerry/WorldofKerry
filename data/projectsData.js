@@ -24,7 +24,7 @@ const projectsData = [
   {
     title: 'Cooking Speedrun',
     description: `Quick, nutritious, cheap, and delicious.`,
-    imgSrc: '',
+    imgSrc: '/static/images/cookingspeedrun.png',
     href: 'https://www.instagram.com/cookingspeedrun/',
   },
   // {
@@ -36,7 +36,7 @@ const projectsData = [
   {
     title: 'Obsidian Garden',
     description: `Notes from courses and life.`,
-    imgSrc: '',
+    imgSrc: '/static/images/obsidian.png',
     href: '/obsidian',
   },
 ]
