@@ -1,0 +1,1 @@
+Given a set of elements called the universe and a collection S of m sets whose union equals the universe, the set cover problem identifies the smallest sub-collection of S whose union equals the universe.
