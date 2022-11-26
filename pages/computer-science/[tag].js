@@ -5,8 +5,8 @@ import showdown from 'showdown'
 const root = process.cwd()
 const entries = Array.from(fs.readdirSync(path.join(root, 'data', 'computer-science'))).map(
   (entry) => {
-    // parse xxx.md to xxx or -xxx.md to xxx
-    const name = entry.replace(/\.md$/, '').replace(/^-/, '')
+    // parse xxx.md to xxx
+    const name = entry.split('.')[0]
     // replace space with dash
     const route = name.replaceAll(' ', '-')
     return { filePath: entry, route: route, name: name }
@@ -15,7 +15,6 @@ const entries = Array.from(fs.readdirSync(path.join(root, 'data', 'computer-scie
 
 export async function getStaticPaths() {
   const routes = entries.map((entry) => entry.route)
-  console.log(routes.slice(0, 1))
   return {
     paths: routes.map((tag) => ({
       params: {
@@ -27,18 +26,15 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const filePath = entries.filter((entry) => entry.route === params.tag)[0].filePath
+  const entry = entries.filter((entry) => entry.route === params.tag)[0]
+  const filePath = entry.filePath
   const markdown = fs.readFileSync(path.join(root, 'data', 'computer-science', filePath), 'utf8')
-  return { props: { markdown: markdown } }
+  return { props: { markdown: markdown, title: entry.name } }
 }
 
-export default function ComputerScience({ markdown }) {
+export default function ComputerScience({ markdown, title }) {
   const converter = new showdown.Converter()
   const html = converter.makeHtml(markdown)
-  // filter for obsidian [[link]]s
-  const links = html.match(/\[\[.*?\]\]/g)
-  // replace spaces with dashes
-  const linksWithDashes = links.map((link) => link.replaceAll(' ', '-'))
   // replace [[link]] with <a href="link">link</a>
   const htmlWithLinks = html.replaceAll(/\[\[.*?\]\]/g, (match) => {
     // remove [[ and ]]
@@ -47,5 +43,9 @@ export default function ComputerScience({ markdown }) {
     link = link.replaceAll(' ', '-')
     return `<a href="/computer-science/${link}" style="color: #0070f3;">${match.slice(2, -2)}</a>`
   })
-  return <div dangerouslySetInnerHTML={{ __html: htmlWithLinks }} />
+  // add title
+  // replace -xxx with xxx (remove the dash)
+  const titleWithoutDash = title.replace(/^-/, '')
+  const htmlWithTitle = `<h1 style="font-size: 2rem; font-weight: 700; margin-bottom: 1rem;">${titleWithoutDash}</h1>${htmlWithLinks}`
+  return <div dangerouslySetInnerHTML={{ __html: htmlWithTitle }} />
 }
