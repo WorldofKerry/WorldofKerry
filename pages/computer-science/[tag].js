@@ -40,11 +40,11 @@ export default function ComputerScience({ markdown, title }) {
   const converter = new showdown.Converter()
   const html = converter.makeHtml(markdown)
   // replace [[link]] with <a href="link">link</a>
-  const htmlWithLinks = html.replaceAll(/\[\[.*?\]\]/g, (match) => {
+  const htmlWithLinks = html.replace(/\[\[.*?\]\]/g, (match) => {
     // remove [[ and ]]
     var link = match.slice(2, -2)
     // replace spaces with dashes
-    link = link.replaceAll(' ', '-')
+    link = link.replace(/ /g, '-')
     return `<a href="/computer-science/${link}" style="color: #0070f3;">${match.slice(2, -2)}</a>`
   })
   // add title
