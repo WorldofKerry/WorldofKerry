@@ -44,11 +44,12 @@ export default function Graph({ graph }) {
   const { theme, resolvedTheme } = useTheme()
   return (
     <>
+      <h1>Plz interact with me :3</h1>
       <CytoscapeComponent
         elements={elements}
         style={{
-          width: '1000px',
-          height: '1000px',
+          width: '900px',
+          height: '506px',
           backgroundColor: theme === 'dark' || resolvedTheme === 'dark' ? '#171717' : '#ffffff',
         }}
         stylesheet={[
