@@ -33,6 +33,12 @@ const projectsData = [
     imgSrc: '',
     href: '/blog/favourite-quotes',
   },
+  {
+    title: 'Computer Science Notes',
+    description: `Notes from my computer science courses.`,
+    imgSrc: '',
+    href: '/computer-science',
+  },
 ]
 
 export default projectsData

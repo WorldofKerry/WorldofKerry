@@ -1,5 +1,6 @@
 import fs from 'fs'
 import path from 'path'
+import showdown from 'showdown'
 
 const root = process.cwd()
 const entries = Array.from(fs.readdirSync(path.join(root, 'data', 'computer-science'))).map(
@@ -23,43 +24,28 @@ export async function getStaticPaths() {
     })),
     fallback: false,
   }
-  // const tags = await getAllTags('blog')
-
-  // return {
-  //   paths: Object.keys(tags).map((tag) => ({
-  //     params: {
-  //       tag,
-  //     },
-  //   })),
-  //   fallback: false,
-  // }
 }
 
 export async function getStaticProps({ params }) {
-  const text = entries.filter((entry) => entry.route === params.tag)[0].filePath
-  return { props: { text: text } }
-
-  // const allPosts = await getAllFilesFrontMatter('blog')
-  // const filteredPosts = allPosts.filter(
-  //   (post) => post.draft !== true && post.tags.map((t) => kebabCase(t)).includes(params.tag)
-  // )
-
-  // // rss
-  // if (filteredPosts.length > 0) {
-  //   const rss = generateRss(filteredPosts, `tags/${params.tag}/feed.xml`)
-  //   const rssPath = path.join(root, 'public', 'tags', params.tag)
-  //   fs.mkdirSync(rssPath, { recursive: true })
-  //   fs.writeFileSync(path.join(rssPath, 'feed.xml'), rss)
-  // }
-
-  // return { props: { posts: filteredPosts, tag: params.tag } }
+  const filePath = entries.filter((entry) => entry.route === params.tag)[0].filePath
+  const markdown = fs.readFileSync(path.join(root, 'data', 'computer-science', filePath), 'utf8')
+  return { props: { markdown: markdown } }
 }
 
-export default function ComputerScience({ text }) {
-  // Capitalize first letter and convert space to dash
-  return (
-    <>
-      <p>{text}</p>
-    </>
-  )
+export default function ComputerScience({ markdown }) {
+  const converter = new showdown.Converter()
+  const html = converter.makeHtml(markdown)
+  // filter for obsidian [[link]]s
+  const links = html.match(/\[\[.*?\]\]/g)
+  // replace spaces with dashes
+  const linksWithDashes = links.map((link) => link.replaceAll(' ', '-'))
+  // replace [[link]] with <a href="link">link</a>
+  const htmlWithLinks = html.replaceAll(/\[\[.*?\]\]/g, (match) => {
+    // remove [[ and ]]
+    var link = match.slice(2, -2)
+    // replace spaces with dashes
+    link = link.replaceAll(' ', '-')
+    return `<a href="/computer-science/${link}" style="color: #0070f3;">${match.slice(2, -2)}</a>`
+  })
+  return <div dangerouslySetInnerHTML={{ __html: htmlWithLinks }} />
 }
