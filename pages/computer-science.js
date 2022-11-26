@@ -1,31 +1,39 @@
-import Link from '@/components/Link'
-import { PageSEO } from '@/components/SEO'
-import siteMetadata from '@/data/siteMetadata'
+import dynamic from 'next/dynamic'
+import fs from 'fs'
+import path from 'path'
 
-export default function Cool() {
+// const CytoscapeComponent = dynamic(import('react-cytoscapejs'), { ssr: false })
+import CytoscapeComponent from 'react-cytoscapejs'
+
+export default function Graph({ graph }) {
+  const elements = graph.elements.nodes.map((e) => {
+    console.log(e)
+    var newE = {}
+    newE.data = {}
+    newE.data.id = e.data.id
+    newE.data.label = e.data.name
+    newE.position = {}
+    newE.position.x = Math.round(e.position.x)
+    newE.position.y = Math.round(e.position.y)
+    return newE
+  })
+  console.log(elements.slice(0, 1))
   return (
     <>
-      <PageSEO title={`Page Not Found - ${siteMetadata.title}`} />
-      <div className="flex flex-col items-start justify-start md:mt-24 md:flex-row md:items-center md:justify-center md:space-x-6">
-        <div className="space-x-2 pt-6 pb-8 md:space-y-5">
-          <h1 className="text-6xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 md:border-r-2 md:px-6 md:text-8xl md:leading-14">
-            405
-          </h1>
-        </div>
-        <div className="max-w-md">
-          <p className="mb-4 text-xl font-bold leading-normal md:text-2xl">
-            Sorry we couldn't find this page.
-          </p>
-          <p className="mb-8">
-            But dont worry, you can find plenty of other things on our homepage.
-          </p>
-          <Link href="/">
-            <button className="focus:shadow-outline-blue inline rounded-lg border border-transparent bg-blue-600 px-4 py-2 text-sm font-medium leading-5 text-white shadow transition-colors duration-150 hover:bg-blue-700 focus:outline-none dark:hover:bg-blue-500">
-              Back to homepage
-            </button>
-          </Link>
-        </div>
-      </div>
+      <p>Computer Science Yay!</p>
+      <CytoscapeComponent elements={elements} style={{ width: '1000px', height: '1000px' }} />
     </>
   )
+}
+
+export async function getStaticProps() {
+  const graph = JSON.parse(
+    fs.readFileSync(path.join(process.cwd(), 'public', 'static', 'graph.json'), 'utf8')
+  )
+  const elements = graph.elements.nodes
+  return {
+    props: {
+      graph,
+    },
+  }
 }
