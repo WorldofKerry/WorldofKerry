@@ -25,7 +25,7 @@ export default function Graph({ graph }) {
     newNode.position = {}
     newNode.position.x = Math.round(node.position.x)
     newNode.position.y = Math.round(node.position.y)
-    newNode.data.href = 'computer-science/' + node.data.name.replace(/ /g, '-')
+    newNode.data.href = 'computer-science/' + node.data.name.replaceAll(' ', '-')
     // newNode.data.href = 'example.com'
     return newNode
   })
