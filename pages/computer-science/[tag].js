@@ -2,16 +2,15 @@ import fs from 'fs'
 import path from 'path'
 import showdown from 'showdown'
 
-const root = process.cwd()
-const entries = Array.from(fs.readdirSync(path.join(root, 'data', 'computer-science'))).map(
-  (entry) => {
-    // parse xxx.md to xxx
-    const name = entry.split('.')[0]
-    // replace space with dash
-    const route = name.replaceAll(' ', '-')
-    return { filePath: entry, route: route, name: name }
-  }
-)
+const entries = Array.from(
+  fs.readdirSync(path.join(process.cwd(), 'public', 'static', 'computer-science'))
+).map((entry) => {
+  // parse xxx.md to xxx
+  const name = entry.split('.')[0]
+  // replace space with dash
+  const route = name.replaceAll(' ', '-')
+  return { filePath: entry, route: route, name: name }
+})
 
 export async function getStaticPaths() {
   const routes = entries.map((entry) => entry.route)
@@ -28,7 +27,10 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
   const entry = entries.filter((entry) => entry.route === params.tag)[0]
   const filePath = entry.filePath
-  const markdown = fs.readFileSync(path.join(root, 'data', 'computer-science', filePath), 'utf8')
+  const markdown = fs.readFileSync(
+    path.join(process.cwd(), 'public', 'static', 'computer-science', filePath),
+    'utf8'
+  )
   return { props: { markdown: markdown, title: entry.name } }
 }
 
