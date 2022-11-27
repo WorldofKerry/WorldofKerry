@@ -1,0 +1,5 @@
+- [[Min]]
+- [[Max]]
+- [[Mean]]
+- [[Median]]
+- [[Mode]]

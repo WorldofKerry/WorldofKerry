@@ -1,0 +1,3 @@
+- [[Formal Science]]
+- [[Natural Science]]
+- [[Social Science]]

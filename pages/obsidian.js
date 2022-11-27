@@ -26,7 +26,6 @@ export default function Graph({ graph }) {
     newNode.position.x = Math.round(node.position.x)
     newNode.position.y = Math.round(node.position.y)
     newNode.data.href = 'obsidian/' + node.data.name.replaceAll(' ', '-')
-    // newNode.data.href = 'example.com'
     return newNode
   })
   var edges = graph.elements.edges.filter((edge) => {
@@ -80,7 +79,7 @@ export default function Graph({ graph }) {
 }
 
 export async function getStaticProps() {
-  const graph = JSON.parse(fs.readFileSync(path.join(root, 'data', 'obsidian.json'), 'utf8'))
+  const graph = JSON.parse(fs.readFileSync(path.join(root, 'data', 'graph.json'), 'utf8'))
   return {
     props: {
       graph,

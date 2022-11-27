@@ -1,0 +1,6394 @@
+{
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "core:Drawing 2022-11-26 18.19.37.excalidraw.md",
+          "name": "Drawing 2022-11-26 18.19.37.excalidraw",
+          "path": "Excalidraw/Drawing 2022-11-26 18.19.37.excalidraw.md",
+          "excalidraw-plugin": "parsed",
+          "tags": ["excalidraw"],
+          "degree": 0,
+          "nameLength": 38
+        },
+        "position": { "x": 1522.5133399585932, "y": -516.51871205187 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note tag-excalidraw filtered"
+      },
+      {
+        "data": {
+          "id": "core:Reasoning for Folder in Folder.md",
+          "name": "Reasoning for Folder in Folder",
+          "path": "Templates/Reasoning for Folder in Folder.md",
+          "degree": 1,
+          "nameLength": 30
+        },
+        "position": { "x": 1154.7078251567457, "y": 1584.2586615330838 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Daily.md",
+          "name": "Daily",
+          "path": "Templates/Daily.md",
+          "degree": 0,
+          "nameLength": 5
+        },
+        "position": { "x": 1522.5133399585932, "y": -485.51871205186995 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:DateTime.md",
+          "name": "DateTime",
+          "path": "Templates/Main/DateTime.md",
+          "degree": 1,
+          "nameLength": 8
+        },
+        "position": { "x": 1254.704353053745, "y": 1583.425349739881 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Things to Buy.md",
+          "name": "Things to Buy",
+          "path": "Tech/Things to Buy.md",
+          "degree": 2,
+          "nameLength": 13
+        },
+        "position": { "x": 1331.1522821990004, "y": 98.405166842567 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md",
+          "name": "Project Ideas",
+          "path": "Tech/Project Ideas.md",
+          "degree": 9,
+          "nameLength": 13
+        },
+        "position": { "x": 1350.9160730965402, "y": 392.97879561418904 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Stuff Made Here.md",
+          "name": "Stuff Made Here",
+          "path": "Tech/Stuff Made Here.md",
+          "degree": 1,
+          "nameLength": 15
+        },
+        "position": { "x": 1170.528422343132, "y": 1453.6847364915018 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Reform the education system.md",
+          "name": "Reform the education system",
+          "path": "Tech/Reform the education system.md",
+          "degree": 1,
+          "nameLength": 27
+        },
+        "position": { "x": 1470.0643117408438, "y": 331.24938647504166 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Efficient Bus Routing.md",
+          "name": "Efficient Bus Routing",
+          "path": "Tech/Efficient Bus Routing.md",
+          "degree": 1,
+          "nameLength": 21
+        },
+        "position": { "x": 1278.2539567244673, "y": 352.2898049879418 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Motion Tracking Flashlight.md",
+          "name": "Motion Tracking Flashlight",
+          "path": "Tech/Motion Tracking Flashlight.md",
+          "degree": 1,
+          "nameLength": 26
+        },
+        "position": { "x": 1347.7610336174037, "y": 525.3027851276539 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Drawing Pad with Equation Input.md",
+          "name": "Drawing Pad with Equation Input",
+          "path": "Tech/Drawing Pad with Equation Input.md",
+          "degree": 1,
+          "nameLength": 31
+        },
+        "position": { "x": 1398.010931378145, "y": 297.93455021373137 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Entrepreneurship.md",
+          "name": "Entrepreneurship",
+          "path": "Tech/Entrepreneurship.md",
+          "degree": 1,
+          "nameLength": 16
+        },
+        "position": { "x": 1143.878430679785, "y": 222.08597750485595 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Creative Work for Students.md",
+          "name": "Creative Work for Students",
+          "path": "Tech/Creative Work for Students.md",
+          "degree": 1,
+          "nameLength": 26
+        },
+        "position": { "x": 1483.112686302498, "y": 427.10102883173727 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Driverless Vehicles Usage Optimization.md",
+          "name": "Driverless Vehicles Usage Optimization",
+          "path": "Tech/Driverless Vehicles Usage Optimization.md",
+          "degree": 1,
+          "nameLength": 38
+        },
+        "position": { "x": 1425.3492973428956, "y": 491.2322438815765 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Brave Technology Coop.md",
+          "name": "Brave Technology Coop",
+          "path": "Tech/Brave Technology Coop.md",
+          "degree": 1,
+          "nameLength": 21
+        },
+        "position": { "x": 1192.550298510537, "y": 121.7895874919185 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:-Tech.md",
+          "name": "-Tech",
+          "path": "Tech/-Tech.md",
+          "degree": 4,
+          "nameLength": 5
+        },
+        "position": { "x": 1270.2393228324565, "y": 222.20228869185385 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Digital Instruction Manual.md",
+          "name": "Digital Instruction Manual",
+          "path": "Tech/Digital Instruction Manual.md",
+          "degree": 1,
+          "nameLength": 26
+        },
+        "position": { "x": 1218.3280962626998, "y": 411.0564653719385 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Away From Video Call Recorder.md",
+          "name": "Away From Video Call Recorder",
+          "path": "Tech/Away From Video Call Recorder.md",
+          "degree": 1,
+          "nameLength": 29
+        },
+        "position": { "x": 1260.7469402613335, "y": 497.4438139574814 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:3D Printer.md",
+          "name": "3D Printer",
+          "path": "Tech/3D Printer.md",
+          "degree": 1,
+          "nameLength": 10
+        },
+        "position": { "x": 1374.353999847921, "y": -9.402832251805235 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Restructuring University.md",
+          "name": "Restructuring University",
+          "path": "School/Restructuring University.md",
+          "degree": 0,
+          "nameLength": 24
+        },
+        "position": { "x": 1522.5133399585932, "y": -454.51871205186995 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:Going on Exchange.md",
+          "name": "Going on Exchange",
+          "path": "School/Going on Exchange.md",
+          "degree": 1,
+          "nameLength": 17
+        },
+        "position": { "x": 1522.5133399585932, "y": -423.51871205186995 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:-School.md",
+          "name": "-School",
+          "path": "School/-School.md",
+          "degree": 1,
+          "nameLength": 7
+        },
+        "position": { "x": 1622.5133399585932, "y": -423.51871205186995 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Recording 20221021233031.webm",
+          "name": "Recording 20221021233031.webm",
+          "path": "Recording 20221021233031.webm",
+          "degree": 1,
+          "nameLength": 29
+        },
+        "position": { "x": 1155.1739318740667, "y": 1322.4760215776967 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "audio file protected has-incoming-inline global-1 filtered"
+      },
+      {
+        "data": {
+          "id": "core:Recording 20221021232545.webm",
+          "name": "Recording 20221021232545.webm",
+          "path": "Recording 20221021232545.webm",
+          "degree": 0,
+          "nameLength": 29
+        },
+        "position": { "x": 1522.5133399585932, "y": -392.51871205187007 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "audio file protected global-1 filtered"
+      },
+      {
+        "data": {
+          "id": "core:Recording 20221021232346.webm",
+          "name": "Recording 20221021232346.webm",
+          "path": "Recording 20221021232346.webm",
+          "degree": 0,
+          "nameLength": 29
+        },
+        "position": { "x": 1522.5133399585932, "y": -361.51871205187007 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "audio file protected global-1 filtered"
+      },
+      {
+        "data": {
+          "id": "core:Recording 20221018225004.webm",
+          "name": "Recording 20221018225004.webm",
+          "path": "Recording 20221018225004.webm",
+          "degree": 1,
+          "nameLength": 29
+        },
+        "position": { "x": 1567.9111628924702, "y": -636.6199896682115 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "audio file protected has-incoming-inline global-1 filtered"
+      },
+      {
+        "data": {
+          "id": "core:Pasted image 20221126002336.png",
+          "name": "Pasted image 20221126002336.png",
+          "path": "Pasted image 20221126002336.png",
+          "resource_url": "http://localhost:3837/Pasted%20image%2020221126002336.png",
+          "degree": 1,
+          "nameLength": 31
+        },
+        "position": { "x": 580.1063361878055, "y": 1027.5428717419638 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "image file protected has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Pasted image 20221126001302.png",
+          "name": "Pasted image 20221126001302.png",
+          "path": "Pasted image 20221126001302.png",
+          "resource_url": "http://localhost:3837/Pasted%20image%2020221126001302.png",
+          "degree": 0,
+          "nameLength": 31
+        },
+        "position": { "x": 1522.5133399585932, "y": -330.51871205186995 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "image file protected filtered"
+      },
+      {
+        "data": {
+          "id": "core:Pasted image 20221123163646.png",
+          "name": "Pasted image 20221123163646.png",
+          "path": "Pasted image 20221123163646.png",
+          "resource_url": "http://localhost:3837/Pasted%20image%2020221123163646.png",
+          "degree": 1,
+          "nameLength": 31
+        },
+        "position": { "x": -473.46629516322747, "y": 237.36415271063154 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "image file protected has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Pasted image 20221126001241.png",
+          "name": "Pasted image 20221126001241.png",
+          "path": "Pasted image 20221126001241.png",
+          "resource_url": "http://localhost:3837/Pasted%20image%2020221126001241.png",
+          "degree": 1,
+          "nameLength": 31
+        },
+        "position": { "x": 616.0691703964343, "y": 794.9499571891585 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "image file protected has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Pasted image 20221123141935.png",
+          "name": "Pasted image 20221123141935.png",
+          "path": "Pasted image 20221123141935.png",
+          "resource_url": "http://localhost:3837/Pasted%20image%2020221123141935.png",
+          "degree": 1,
+          "nameLength": 31
+        },
+        "position": { "x": 18.52795431832359, "y": -571.7826654769489 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "image file protected has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Pasted image 20221122005308.png",
+          "name": "Pasted image 20221122005308.png",
+          "path": "Pasted image 20221122005308.png",
+          "resource_url": "http://localhost:3837/Pasted%20image%2020221122005308.png",
+          "degree": 1,
+          "nameLength": 31
+        },
+        "position": { "x": -384.3419720389448, "y": 43.48456657809222 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "image file protected has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Pasted image 20221122003700.png",
+          "name": "Pasted image 20221122003700.png",
+          "path": "Pasted image 20221122003700.png",
+          "resource_url": "http://localhost:3837/Pasted%20image%2020221122003700.png",
+          "degree": 1,
+          "nameLength": 31
+        },
+        "position": { "x": -472.96474795575637, "y": 130.25994359483286 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "image file protected has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Pasted image 20221122003657.png",
+          "name": "Pasted image 20221122003657.png",
+          "path": "Pasted image 20221122003657.png",
+          "resource_url": "http://localhost:3837/Pasted%20image%2020221122003657.png",
+          "degree": 0,
+          "nameLength": 31
+        },
+        "position": { "x": 1522.5133399585932, "y": -299.51871205186995 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "image file protected filtered"
+      },
+      {
+        "data": {
+          "id": "core:Vertex Cover.md",
+          "name": "Vertex Cover",
+          "path": "Knowledge/Vertex Cover.md",
+          "degree": 2,
+          "nameLength": 12
+        },
+        "position": { "x": 41.58154196030599, "y": -448.9584533186059 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Verilog.md",
+          "name": "Verilog",
+          "path": "Knowledge/Verilog.md",
+          "degree": 1,
+          "nameLength": 7
+        },
+        "position": { "x": 332.28256119293604, "y": 1664.2801663464509 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Vector.md",
+          "name": "Vector",
+          "path": "Knowledge/Vector.md",
+          "degree": 1,
+          "nameLength": 6
+        },
+        "position": { "x": 337.05332807433183, "y": 954.0897929944207 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Summary Statistics.md",
+          "name": "Summary Statistics",
+          "path": "Knowledge/Summary Statistics.md",
+          "degree": 1,
+          "nameLength": 18
+        },
+        "position": { "x": 731.9705628967478, "y": 504.69627286613604 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Time Complexity.md",
+          "name": "Time Complexity",
+          "path": "Knowledge/Time Complexity.md",
+          "degree": 2,
+          "nameLength": 15
+        },
+        "position": { "x": -21.68743390479744, "y": 422.05605624147285 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Statistics.md",
+          "name": "Statistics",
+          "path": "Knowledge/Statistics.md",
+          "degree": 3,
+          "nameLength": 10
+        },
+        "position": { "x": 654.2611975931092, "y": 588.0909283613707 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Truth Table.md",
+          "name": "Truth Table",
+          "path": "Knowledge/Truth Table.md",
+          "degree": 3,
+          "nameLength": 11
+        },
+        "position": { "x": 630.5197686430852, "y": 879.410270168636 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Social Science.md",
+          "name": "Social Science",
+          "path": "Knowledge/Social Science.md",
+          "degree": 1,
+          "nameLength": 14
+        },
+        "position": { "x": 484.31932519424436, "y": 717.3923978779475 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Sigmoid.md",
+          "name": "Sigmoid",
+          "path": "Knowledge/Sigmoid.md",
+          "degree": 1,
+          "nameLength": 7
+        },
+        "position": { "x": 1172.1744902444318, "y": -209.89258856391845 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Signals and Systems.md",
+          "name": "Signals and Systems",
+          "path": "Knowledge/Signals and Systems.md",
+          "degree": 3,
+          "nameLength": 19
+        },
+        "position": { "x": 73.0664083847196, "y": 727.6778248872985 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Set Theory.md",
+          "name": "Set Theory",
+          "path": "Knowledge/Set Theory.md",
+          "degree": 6,
+          "nameLength": 10
+        },
+        "position": { "x": 325.31674916802643, "y": 127.57635994392507 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Set Cover.md",
+          "name": "Set Cover",
+          "path": "Knowledge/Set Cover.md",
+          "degree": 1,
+          "nameLength": 9
+        },
+        "position": { "x": 138.80377244282786, "y": -401.6511156391278 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Science.md",
+          "name": "Science",
+          "path": "Knowledge/Science.md",
+          "degree": 4,
+          "nameLength": 7
+        },
+        "position": { "x": 342.0161981959557, "y": 745.5686908478643 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Register-Transfer Level (RTL).md",
+          "name": "Register-Transfer Level (RTL)",
+          "path": "Knowledge/Register-Transfer Level (RTL).md",
+          "degree": 1,
+          "nameLength": 29
+        },
+        "position": { "x": 122.89419380399714, "y": 1305.045273178577 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Sampling.md",
+          "name": "Sampling",
+          "path": "Knowledge/Sampling.md",
+          "degree": 2,
+          "nameLength": 8
+        },
+        "position": { "x": 24.09378901341492, "y": 667.9930137077439 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Recursion Tree.md",
+          "name": "Recursion Tree",
+          "path": "Knowledge/Recursion Tree.md",
+          "degree": 4,
+          "nameLength": 14
+        },
+        "position": { "x": -275.5076045093843, "y": 137.34703539518156 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Recurrence Relation.md",
+          "name": "Recurrence Relation",
+          "path": "Knowledge/Recurrence Relation.md",
+          "degree": 3,
+          "nameLength": 19
+        },
+        "position": { "x": -209.94522183179367, "y": 219.24471292798364 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Rational Numbers.md",
+          "name": "Rational Numbers",
+          "path": "Knowledge/Rational Numbers.md",
+          "degree": 1,
+          "nameLength": 16
+        },
+        "position": { "x": 302.55149757250274, "y": 19.301691408839755 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Proof by Induction (Math Induction).md",
+          "name": "Proof by Induction (Math Induction)",
+          "path": "Knowledge/Proof by Induction (Math Induction).md",
+          "degree": 4,
+          "nameLength": 35
+        },
+        "position": { "x": 78.60187817192778, "y": 181.57615673661397 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Rectified Linear Unit (ReLU).md",
+          "name": "Rectified Linear Unit (ReLU)",
+          "path": "Knowledge/Rectified Linear Unit (ReLU).md",
+          "degree": 1,
+          "nameLength": 28
+        },
+        "position": { "x": 1252.8565676204755, "y": -86.29925325014487 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Real Number.md",
+          "name": "Real Number",
+          "path": "Knowledge/Real Number.md",
+          "degree": 2,
+          "nameLength": 11
+        },
+        "position": { "x": 370.21906987868175, "y": -15.180710904885586 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Proof by Contradiction.md",
+          "name": "Proof by Contradiction",
+          "path": "Knowledge/Proof by Contradiction.md",
+          "degree": 1,
+          "nameLength": 22
+        },
+        "position": { "x": 296.46798402220344, "y": 239.95163464376114 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Proof by Contraposition (Proof by Contrapositive).md",
+          "name": "Proof by Contraposition (Proof by Contrapositive)",
+          "path": "Knowledge/Proof by Contraposition (Proof by Contrapositive).md",
+          "degree": 1,
+          "nameLength": 49
+        },
+        "position": { "x": 196.46612777001667, "y": 224.4191907941265 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Power.md",
+          "name": "Power",
+          "path": "Knowledge/Power.md",
+          "degree": 1,
+          "nameLength": 5
+        },
+        "position": { "x": 633.0079016959071, "y": 996.1743523384451 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Physics.md",
+          "name": "Physics",
+          "path": "Knowledge/Physics.md",
+          "degree": 3,
+          "nameLength": 7
+        },
+        "position": { "x": -207.89946473314276, "y": 858.5848718099375 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Optimal Scheduling.md",
+          "name": "Optimal Scheduling",
+          "path": "Knowledge/Optimal Scheduling.md",
+          "degree": 1,
+          "nameLength": 18
+        },
+        "position": { "x": -155.65465753956371, "y": -5.109706460635398 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Physical Science.md",
+          "name": "Physical Science",
+          "path": "Knowledge/Physical Science.md",
+          "degree": 2,
+          "nameLength": 16
+        },
+        "position": { "x": -99.46524745354128, "y": 913.9157128325024 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:NP-Complete.md",
+          "name": "NP-Complete",
+          "path": "Knowledge/NP-Complete.md",
+          "degree": 2,
+          "nameLength": 11
+        },
+        "position": { "x": 113.95919023340224, "y": -58.447725603636904 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:NP-Complete Problems.md",
+          "name": "NP-Complete Problems",
+          "path": "Knowledge/NP-Complete Problems.md",
+          "degree": 6,
+          "nameLength": 20
+        },
+        "position": { "x": 78.55346481878335, "y": -286.38520594582207 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Neurons.md",
+          "name": "Neurons",
+          "path": "Knowledge/Neurons.md",
+          "degree": 3,
+          "nameLength": 7
+        },
+        "position": { "x": 1133.7602205398161, "y": -96.35957646541006 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Neural Network.md",
+          "name": "Neural Network",
+          "path": "Knowledge/Neural Network.md",
+          "degree": 2,
+          "nameLength": 14
+        },
+        "position": { "x": 868.8582998931915, "y": 84.00319735071962 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Natural Science.md",
+          "name": "Natural Science",
+          "path": "Knowledge/Natural Science.md",
+          "degree": 3,
+          "nameLength": 15
+        },
+        "position": { "x": 85.16890705318549, "y": 887.845349858109 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Multilayer Perceptron.md",
+          "name": "Multilayer Perceptron",
+          "path": "Knowledge/Multilayer Perceptron.md",
+          "degree": 2,
+          "nameLength": 21
+        },
+        "position": { "x": 1011.794477326252, "y": -14.220430598431427 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Min Interval Subset that Overlaps with All Intervals.md",
+          "name": "Min Interval Subset that Overlaps with All Intervals",
+          "path": "Knowledge/Min Interval Subset that Overlaps with All Intervals.md",
+          "degree": 1,
+          "nameLength": 52
+        },
+        "position": { "x": -80.6546565395637, "y": -12.227992102555946 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Natural Number.md",
+          "name": "Natural Number",
+          "path": "Knowledge/Natural Number.md",
+          "degree": 2,
+          "nameLength": 14
+        },
+        "position": { "x": 204.8138121480304, "y": 115.01081310256056 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Matrix.md",
+          "name": "Matrix",
+          "path": "Knowledge/Matrix.md",
+          "degree": 3,
+          "nameLength": 6
+        },
+        "position": { "x": 460.8063448319451, "y": 956.6879443585981 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Matrix Algebra.md",
+          "name": "Matrix Algebra",
+          "path": "Knowledge/Matrix Algebra.md",
+          "degree": 3,
+          "nameLength": 14
+        },
+        "position": { "x": 409.95759074777357, "y": 1037.997563155868 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Math.md",
+          "name": "Math",
+          "path": "Knowledge/Math.md",
+          "degree": 5,
+          "nameLength": 4
+        },
+        "position": { "x": 369.7292194894603, "y": 552.4306349062272 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Master Theorem.md",
+          "name": "Master Theorem",
+          "path": "Knowledge/Master Theorem.md",
+          "degree": 4,
+          "nameLength": 14
+        },
+        "position": { "x": -344.0714978953997, "y": 191.8499796827248 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Math Proof.md",
+          "name": "Math Proof",
+          "path": "Knowledge/Math Proof.md",
+          "degree": 5,
+          "nameLength": 10
+        },
+        "position": { "x": 225.48955782829285, "y": 315.9014876935377 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Machine.md",
+          "name": "Machine",
+          "path": "Knowledge/Machine.md",
+          "degree": 4,
+          "nameLength": 7
+        },
+        "position": { "x": 286.31172536057267, "y": 509.54833146355844 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Logic.md",
+          "name": "Logic",
+          "path": "Knowledge/Logic.md",
+          "degree": 8,
+          "nameLength": 5
+        },
+        "position": { "x": 688.4345775519313, "y": 808.1177235848539 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Machine Learning.md",
+          "name": "Machine Learning",
+          "path": "Knowledge/Machine Learning.md",
+          "degree": 3,
+          "nameLength": 16
+        },
+        "position": { "x": 683.0568999375192, "y": 229.00218120433024 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Life Science.md",
+          "name": "Life Science",
+          "path": "Knowledge/Life Science.md",
+          "degree": 1,
+          "nameLength": 12
+        },
+        "position": { "x": -17.721104447083878, "y": 1012.3088443994416 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Linear Algebra.md",
+          "name": "Linear Algebra",
+          "path": "Knowledge/Linear Algebra.md",
+          "degree": 4,
+          "nameLength": 14
+        },
+        "position": { "x": 397.37486897670937, "y": 844.2040547980179 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Karnaugh Maps.md",
+          "name": "Karnaugh Maps",
+          "path": "Knowledge/Karnaugh Maps.md",
+          "degree": 6,
+          "nameLength": 13
+        },
+        "position": { "x": 524.733196467891, "y": 889.8643473135147 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Integer.md",
+          "name": "Integer",
+          "path": "Knowledge/Integer.md",
+          "degree": 1,
+          "nameLength": 7
+        },
+        "position": { "x": 435.1097597189166, "y": 107.34989883369896 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Inverse.md",
+          "name": "Inverse",
+          "path": "Knowledge/Inverse.md",
+          "degree": 1,
+          "nameLength": 7
+        },
+        "position": { "x": 855.0631108660986, "y": 794.3879722562227 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Independent Set.md",
+          "name": "Independent Set",
+          "path": "Knowledge/Independent Set.md",
+          "degree": 1,
+          "nameLength": 15
+        },
+        "position": { "x": 180.41807669022782, "y": -335.6933770550062 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Implication.md",
+          "name": "Implication",
+          "path": "Knowledge/Implication.md",
+          "degree": 1,
+          "nameLength": 11
+        },
+        "position": { "x": 770.2163289990677, "y": 745.7312927849197 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Image Formation.md",
+          "name": "Image Formation",
+          "path": "Knowledge/Image Formation.md",
+          "degree": 2,
+          "nameLength": 15
+        },
+        "position": { "x": -79.91520378047859, "y": 737.5470365829814 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Hardware.md",
+          "name": "Hardware",
+          "path": "Knowledge/Hardware.md",
+          "degree": 2,
+          "nameLength": 8
+        },
+        "position": { "x": 188.26351790541347, "y": 943.2982230305334 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Hardware Description Language.md",
+          "name": "Hardware Description Language",
+          "path": "Knowledge/Hardware Description Language.md",
+          "degree": 2,
+          "nameLength": 29
+        },
+        "position": { "x": 310.26670894347575, "y": 1550.1292206754063 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Image Filtering.md",
+          "name": "Image Filtering",
+          "path": "Knowledge/Image Filtering.md",
+          "degree": 2,
+          "nameLength": 15
+        },
+        "position": { "x": -14.061239174781358, "y": 582.709934023676 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Hardware Description.md",
+          "name": "Hardware Description",
+          "path": "Knowledge/Hardware Description.md",
+          "degree": 2,
+          "nameLength": 20
+        },
+        "position": { "x": 279.465005719113, "y": 1412.2248720784708 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Algorithm.md",
+          "name": "Greedy Algorithm",
+          "path": "Knowledge/Greedy Algorithm.md",
+          "degree": 5,
+          "nameLength": 16
+        },
+        "position": { "x": -41.935167849449336, "y": 89.48057782678825 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Algorithm Proof.md",
+          "name": "Greedy Algorithm Proof",
+          "path": "Knowledge/Greedy Algorithm Proof.md",
+          "degree": 2,
+          "nameLength": 22
+        },
+        "position": { "x": 41.399074328404296, "y": 73.43669270369865 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Graph Colouring.md",
+          "name": "Greedy Graph Colouring",
+          "path": "Knowledge/Greedy Graph Colouring.md",
+          "degree": 2,
+          "nameLength": 22
+        },
+        "position": { "x": -36.261743775079545, "y": -93.23323667103917 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Graphics Processing Unit (GPU).md",
+          "name": "Graphics Processing Unit (GPU)",
+          "path": "Knowledge/Graphics Processing Unit (GPU).md",
+          "degree": 2,
+          "nameLength": 30
+        },
+        "position": { "x": 404.6785082908403, "y": 1178.7918899876227 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Graph Colouring.md",
+          "name": "Graph Colouring",
+          "path": "Knowledge/Graph Colouring.md",
+          "degree": 2,
+          "nameLength": 15
+        },
+        "position": { "x": -11.963385902550735, "y": -218.902420417816 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Graph.md",
+          "name": "Graph",
+          "path": "Knowledge/Graph.md",
+          "degree": 2,
+          "nameLength": 5
+        },
+        "position": { "x": -110.68576791361706, "y": 465.91583319846205 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Fourier Transform.md",
+          "name": "Fourier Transform",
+          "path": "Knowledge/Fourier Transform.md",
+          "degree": 1,
+          "nameLength": 17
+        },
+        "position": { "x": -214.4187731840027, "y": 655.7585692375216 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Formal Science.md",
+          "name": "Formal Science",
+          "path": "Knowledge/Formal Science.md",
+          "degree": 5,
+          "nameLength": 14
+        },
+        "position": { "x": 483.11510529852217, "y": 609.7036715010383 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Engineering.md",
+          "name": "Engineering",
+          "path": "Knowledge/Engineering.md",
+          "degree": 3,
+          "nameLength": 11
+        },
+        "position": { "x": 219.60721249016274, "y": 696.2433877381269 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Field-programmable Gate-Arrays (FPGA).md",
+          "name": "Field-programmable Gate-Arrays (FPGA)",
+          "path": "Knowledge/Field-programmable Gate-Arrays (FPGA).md",
+          "degree": 1,
+          "nameLength": 37
+        },
+        "position": { "x": 193.90142191506882, "y": 1351.4030381398543 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Electrostatics.md",
+          "name": "Electrostatics",
+          "path": "Knowledge/Electrostatics.md",
+          "degree": 1,
+          "nameLength": 14
+        },
+        "position": { "x": -332.92865638954873, "y": 921.9344742495979 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Electrical Engineering.md",
+          "name": "Electrical Engineering",
+          "path": "Knowledge/Electrical Engineering.md",
+          "degree": 4,
+          "nameLength": 22
+        },
+        "position": { "x": 263.2409368652504, "y": 774.7925634316999 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Dynamic Programming.md",
+          "name": "Dynamic Programming",
+          "path": "Knowledge/Dynamic Programming.md",
+          "degree": 2,
+          "nameLength": 19
+        },
+        "position": { "x": -85.7265995194121, "y": 273.368090084936 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Dominating Set.md",
+          "name": "Dominating Set",
+          "path": "Knowledge/Dominating Set.md",
+          "degree": 1,
+          "nameLength": 14
+        },
+        "position": { "x": -268.3185747291441, "y": 494.25573311184235 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note tag-NP-Complete has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Divide and Conquer.md",
+          "name": "Divide and Conquer",
+          "path": "Knowledge/Divide and Conquer.md",
+          "degree": 5,
+          "nameLength": 18
+        },
+        "position": { "x": -122.43403796545682, "y": 203.9772315156265 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Digital Circuit.md",
+          "name": "Digital Circuit",
+          "path": "Knowledge/Digital Circuit.md",
+          "degree": 5,
+          "nameLength": 15
+        },
+        "position": { "x": 221.89626521236357, "y": 1225.6147592803818 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Derivatives.md",
+          "name": "Derivatives",
+          "path": "Knowledge/Derivatives.md",
+          "degree": 2,
+          "nameLength": 11
+        },
+        "position": { "x": 500.5365092338029, "y": 337.62401792721494 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Derivatives of Code.md",
+          "name": "Derivatives of Code",
+          "path": "Knowledge/Derivatives of Code.md",
+          "degree": 2,
+          "nameLength": 19
+        },
+        "position": { "x": 388.88848020357165, "y": 306.4111653049851 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Data Structure.md",
+          "name": "Data Structure",
+          "path": "Knowledge/Data Structure.md",
+          "degree": 3,
+          "nameLength": 14
+        },
+        "position": { "x": 85.00595079885457, "y": 457.2931453346734 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Converse.md",
+          "name": "Converse",
+          "path": "Knowledge/Converse.md",
+          "degree": 1,
+          "nameLength": 8
+        },
+        "position": { "x": 799.4794998617286, "y": 846.1243950413706 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Deep Learning.md",
+          "name": "Deep Learning",
+          "path": "Knowledge/Deep Learning.md",
+          "degree": 1,
+          "nameLength": 13
+        },
+        "position": { "x": 813.9540900754718, "y": 177.49618619689775 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Convolution.md",
+          "name": "Convolution",
+          "path": "Knowledge/Convolution.md",
+          "degree": 4,
+          "nameLength": 11
+        },
+        "position": { "x": -80.07433628285905, "y": 606.0704674845387 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Contrapostive.md",
+          "name": "Contrapostive",
+          "path": "Knowledge/Contrapostive.md",
+          "degree": 1,
+          "nameLength": 13
+        },
+        "position": { "x": 824.6231437764383, "y": 917.029156361591 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Vision.md",
+          "name": "Computer Vision",
+          "path": "Knowledge/Computer Vision.md",
+          "degree": 5,
+          "nameLength": 15
+        },
+        "position": { "x": 107.97850726601327, "y": 568.5821945956277 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer.md",
+          "name": "Computer",
+          "path": "Knowledge/Computer.md",
+          "degree": 5,
+          "nameLength": 8
+        },
+        "position": { "x": 180.80568025098583, "y": 460.3462658293094 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Science.md",
+          "name": "Computer Science",
+          "path": "Knowledge/Computer Science.md",
+          "degree": 9,
+          "nameLength": 16
+        },
+        "position": { "x": 249.31016044935657, "y": 366.42352767323064 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Engineering.md",
+          "name": "Computer Engineering",
+          "path": "Knowledge/Computer Engineering.md",
+          "degree": 6,
+          "nameLength": 20
+        },
+        "position": { "x": 165.40427754618122, "y": 619.318737024076 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Computational Complexity.md",
+          "name": "Computational Complexity",
+          "path": "Knowledge/Computational Complexity.md",
+          "degree": 3,
+          "nameLength": 24
+        },
+        "position": { "x": 106.76157979932727, "y": 237.84706735544924 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Complex Number.md",
+          "name": "Complex Number",
+          "path": "Knowledge/Complex Number.md",
+          "degree": 2,
+          "nameLength": 14
+        },
+        "position": { "x": 432.4706238843294, "y": 20.30173313438345 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Calculus.md",
+          "name": "Calculus",
+          "path": "Knowledge/Calculus.md",
+          "degree": 2,
+          "nameLength": 8
+        },
+        "position": { "x": 484.04278115726385, "y": 454.4761180307924 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Computation.md",
+          "name": "Computation",
+          "path": "Knowledge/Computation.md",
+          "degree": 7,
+          "nameLength": 11
+        },
+        "position": { "x": 223.7388587558977, "y": 504.13967773570806 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Bayes' Theorem.md",
+          "name": "Bayes' Theorem",
+          "path": "Knowledge/Bayes' Theorem.md",
+          "degree": 1,
+          "nameLength": 14
+        },
+        "position": { "x": 793.3033661360632, "y": 576.0787908060157 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Biconditional.md",
+          "name": "Biconditional",
+          "path": "Knowledge/Biconditional.md",
+          "degree": 1,
+          "nameLength": 13
+        },
+        "position": { "x": 753.3866369372619, "y": 936.3993892796713 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Artificial Intelligence.md",
+          "name": "Artificial Intelligence",
+          "path": "Knowledge/Artificial Intelligence.md",
+          "degree": 3,
+          "nameLength": 23
+        },
+        "position": { "x": 393.05349486793267, "y": 416.7048523444259 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Arithmetic.md",
+          "name": "Arithmetic",
+          "path": "Knowledge/Arithmetic.md",
+          "degree": 1,
+          "nameLength": 10
+        },
+        "position": { "x": 329.5949793025995, "y": 464.7453745885318 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Applied Science.md",
+          "name": "Applied Science",
+          "path": "Knowledge/Applied Science.md",
+          "degree": 4,
+          "nameLength": 15
+        },
+        "position": { "x": 281.5416664890043, "y": 611.4547840975614 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Application-Specific Integrated Circuit (ASIC).md",
+          "name": "Application-Specific Integrated Circuit (ASIC)",
+          "path": "Knowledge/Application-Specific Integrated Circuit (ASIC).md",
+          "degree": 2,
+          "nameLength": 46
+        },
+        "position": { "x": 337.02321382704025, "y": 1266.7486615467765 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:3-Dimensional Matching.md",
+          "name": "3-Dimensional Matching",
+          "path": "Knowledge/3-Dimensional Matching.md",
+          "degree": 1,
+          "nameLength": 22
+        },
+        "position": { "x": -20.843204845827685, "y": -363.80945876941405 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline"
+      },
+      {
+        "data": {
+          "id": "core:Algorithm.md",
+          "name": "Algorithm",
+          "path": "Knowledge/Algorithm.md",
+          "degree": 6,
+          "nameLength": 9
+        },
+        "position": { "x": 63.69447776067667, "y": 340.23409799064194 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:-Knowledge.md",
+          "name": "-Knowledge",
+          "path": "Knowledge/-Knowledge.md",
+          "degree": 2,
+          "nameLength": 10
+        },
+        "position": { "x": 377.49835856120586, "y": 656.4827982908199 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-outgoing-inline"
+      },
+      {
+        "data": {
+          "id": "core:Words to Describe Myself.md",
+          "name": "Words to Describe Myself",
+          "path": "Life/Words to Describe Myself.md",
+          "degree": 1,
+          "nameLength": 24
+        },
+        "position": { "x": 1187.8054420055612, "y": -250.6272544734318 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:What tanks for what.md",
+          "name": "What tanks for what",
+          "path": "Life/What tanks for what.md",
+          "degree": 1,
+          "nameLength": 19
+        },
+        "position": { "x": 1239.6574542186095, "y": -650.6096302644213 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Vancouver as a City.md",
+          "name": "Vancouver as a City",
+          "path": "Life/Vancouver as a City.md",
+          "degree": 1,
+          "nameLength": 19
+        },
+        "position": { "x": 1218.3197774177918, "y": -323.7666970832991 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Prospective Shopping List.md",
+          "name": "Prospective Shopping List",
+          "path": "Life/Prospective Shopping List.md",
+          "degree": 1,
+          "nameLength": 25
+        },
+        "position": { "x": 1245.447325808335, "y": -157.38244183724157 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Overwatch.md",
+          "name": "Overwatch",
+          "path": "Life/Overwatch.md",
+          "degree": 2,
+          "nameLength": 9
+        },
+        "position": { "x": 1261.2137651657874, "y": -544.0395086070683 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Interview Copypasta.md",
+          "name": "Interview Copypasta",
+          "path": "Life/Interview Copypasta.md",
+          "degree": 1,
+          "nameLength": 19
+        },
+        "position": { "x": 1329.932804165653, "y": -163.63543676687127 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Foodstuff.md",
+          "name": "Foodstuff",
+          "path": "Life/Foodstuff.md",
+          "degree": 1,
+          "nameLength": 9
+        },
+        "position": { "x": 1385.7111222506417, "y": -354.9606382037968 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Games.md",
+          "name": "Games",
+          "path": "Life/Games.md",
+          "degree": 2,
+          "nameLength": 5
+        },
+        "position": { "x": 1285.820175913992, "y": -422.1248317805357 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Bucket List.md",
+          "name": "Bucket List",
+          "path": "Life/Bucket List.md",
+          "degree": 2,
+          "nameLength": 11
+        },
+        "position": { "x": 1437.2414162473387, "y": -178.97921610058586 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:Exercise.md",
+          "name": "Exercise",
+          "path": "Life/Exercise.md",
+          "degree": 1,
+          "nameLength": 8
+        },
+        "position": { "x": 1438.6321430079342, "y": -305.68655336409336 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-incoming-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md",
+          "name": "-Life",
+          "path": "Life/-Life.md",
+          "degree": 8,
+          "nameLength": 5
+        },
+        "position": { "x": 1317.5201286634494, "y": -270.8792729998048 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-11-26.md",
+          "name": "2022-11-26",
+          "path": "Daily/2022-11-26.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -268.51871205186995 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-11-25.md",
+          "name": "2022-11-25",
+          "path": "Daily/2022-11-25.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -237.51871205186998 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-11-21.md",
+          "name": "2022-11-21",
+          "path": "Daily/2022-11-21.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -206.51871205186998 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-11-07.md",
+          "name": "2022-11-07",
+          "path": "Daily/2022-11-07.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -175.51871205187 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-11-10.md",
+          "name": "2022-11-10",
+          "path": "Daily/2022-11-10.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -145.9694733125722 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-11-03.md",
+          "name": "2022-11-03",
+          "path": "Daily/2022-11-03.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -124.96947231257222 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-10-20.md",
+          "name": "2022-10-20",
+          "path": "Daily/2022-10-20.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1154.7078251567457, "y": 839.8380781999921 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-10-18.md",
+          "name": "2022-10-18",
+          "path": "Daily/2022-10-18.md",
+          "degree": 1,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -547.51871205187 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note tag-perfect has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-10-21.md",
+          "name": "2022-10-21",
+          "path": "Daily/2022-10-21.md",
+          "degree": 1,
+          "nameLength": 10
+        },
+        "position": { "x": 1154.7078251567455, "y": 1422.474935294437 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note tag-makeyoufeelmylove has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-10-16.md",
+          "name": "2022-10-16",
+          "path": "Daily/2022-10-16.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -79.43054753532631 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-10-06.md",
+          "name": "2022-10-06",
+          "path": "Daily/2022-10-06.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -51.51871205187001 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-10-11.md",
+          "name": "2022-10-11",
+          "path": "Daily/2022-10-11.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": -20.51871205187001 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-08-25.md",
+          "name": "2022-08-25",
+          "path": "Daily/2022-08-25.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1522.5133399585932, "y": 10.481287948129989 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-09-29.md",
+          "name": "2022-09-29",
+          "path": "Daily/2022-09-29.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1525.5375549570447, "y": 44.87427136844781 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-09-24.md",
+          "name": "2022-09-24",
+          "path": "Daily/2022-09-24.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1154.7078251567457, "y": 1194.931962450197 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-08-24.md",
+          "name": "2022-08-24",
+          "path": "Daily/2022-08-24.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1525.5375549570447, "y": 75.87427136844792 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-08-31.md",
+          "name": "2022-08-31",
+          "path": "Daily/2022-08-31.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1525.5375549570447, "y": 106.87427136844792 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-08-27.md",
+          "name": "2022-08-27",
+          "path": "Daily/2022-08-27.md",
+          "degree": 1,
+          "nameLength": 10
+        },
+        "position": { "x": 1530.0254358269485, "y": -103.96947131257222 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-outgoing-inline filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-08-21.md",
+          "name": "2022-08-21",
+          "path": "Daily/2022-08-21.md",
+          "degree": 0,
+          "nameLength": 10
+        },
+        "position": { "x": 1525.5375549570447, "y": 137.87427136844792 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note filtered"
+      },
+      {
+        "data": {
+          "id": "core:2022-08-20.md",
+          "name": "2022-08-20",
+          "path": "Daily/2022-08-20.md",
+          "degree": 1,
+          "nameLength": 10
+        },
+        "position": { "x": 1154.7078251567455, "y": 1552.425349739881 },
+        "group": "nodes",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": false,
+        "classes": "note has-outgoing-inline filtered"
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "core:Reasoning for Folder in Folder.md->core:DateTime.md1",
+          "source": "core:Reasoning for Folder in Folder.md",
+          "target": "core:DateTime.md",
+          "context": "Otherwise the template hotkey may ask for which template to use, thus we have [[DateTime]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 78,
+          "end": 90
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Things to Buy.md->core:3D Printer.md1",
+          "source": "core:Things to Buy.md",
+          "target": "core:3D Printer.md",
+          "context": "[[3D Printer]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 14
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md->core:Digital Instruction Manual.md1",
+          "source": "core:Project Ideas.md",
+          "target": "core:Digital Instruction Manual.md",
+          "context": "[[Digital Instruction Manual]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 30
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md->core:Away From Video Call Recorder.md1",
+          "source": "core:Project Ideas.md",
+          "target": "core:Away From Video Call Recorder.md",
+          "context": "[[Away From Video Call Recorder]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 33
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md->core:Motion Tracking Flashlight.md1",
+          "source": "core:Project Ideas.md",
+          "target": "core:Motion Tracking Flashlight.md",
+          "context": "[[Motion Tracking Flashlight]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 30
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md->core:Reform the education system.md1",
+          "source": "core:Project Ideas.md",
+          "target": "core:Reform the education system.md",
+          "context": "[[Reform the education system]]",
+          "edgeCount": 1,
+          "line": 6,
+          "start": 0,
+          "end": 31
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md->core:Drawing Pad with Equation Input.md1",
+          "source": "core:Project Ideas.md",
+          "target": "core:Drawing Pad with Equation Input.md",
+          "context": "[[Drawing Pad with Equation Input]]",
+          "edgeCount": 1,
+          "line": 7,
+          "start": 0,
+          "end": 35
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md->core:Creative Work for Students.md1",
+          "source": "core:Project Ideas.md",
+          "target": "core:Creative Work for Students.md",
+          "context": "[[Creative Work for Students]]",
+          "edgeCount": 1,
+          "line": 8,
+          "start": 0,
+          "end": 30
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md->core:Driverless Vehicles Usage Optimization.md1",
+          "source": "core:Project Ideas.md",
+          "target": "core:Driverless Vehicles Usage Optimization.md",
+          "context": "[[Driverless Vehicles Usage Optimization]]",
+          "edgeCount": 1,
+          "line": 10,
+          "start": 0,
+          "end": 42
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Project Ideas.md->core:Efficient Bus Routing.md1",
+          "source": "core:Project Ideas.md",
+          "target": "core:Efficient Bus Routing.md",
+          "context": "[[Efficient Bus Routing ]]",
+          "edgeCount": 1,
+          "line": 12,
+          "start": 0,
+          "end": 26
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Tech.md->core:Project Ideas.md1",
+          "source": "core:-Tech.md",
+          "target": "core:Project Ideas.md",
+          "context": "[[Project Ideas]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 17
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Tech.md->core:Things to Buy.md1",
+          "source": "core:-Tech.md",
+          "target": "core:Things to Buy.md",
+          "context": "[[Things to Buy]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 17
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Tech.md->core:Brave Technology Coop.md1",
+          "source": "core:-Tech.md",
+          "target": "core:Brave Technology Coop.md",
+          "context": "[[Brave Technology Coop]]",
+          "edgeCount": 1,
+          "line": 4,
+          "start": 0,
+          "end": 25
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Tech.md->core:Entrepreneurship.md1",
+          "source": "core:-Tech.md",
+          "target": "core:Entrepreneurship.md",
+          "context": "[[Entrepreneurship]]",
+          "edgeCount": 1,
+          "line": 5,
+          "start": 0,
+          "end": 20
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-School.md->core:Going on Exchange.md1",
+          "source": "core:-School.md",
+          "target": "core:Going on Exchange.md",
+          "context": "[[Going on Exchange]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 21
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Vertex Cover.md->core:Pasted image 20221123141935.png1",
+          "source": "core:Vertex Cover.md",
+          "target": "core:Pasted image 20221123141935.png",
+          "context": "![[Pasted image 20221123141935.png]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 36
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Statistics.md->core:Bayes' Theorem.md1",
+          "source": "core:Statistics.md",
+          "target": "core:Bayes' Theorem.md",
+          "context": " - [[Bayes' Theorem]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 3,
+          "end": 21
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Statistics.md->core:Summary Statistics.md1",
+          "source": "core:Statistics.md",
+          "target": "core:Summary Statistics.md",
+          "context": " - [[Summary Statistics]]",
+          "edgeCount": 1,
+          "line": 4,
+          "start": 3,
+          "end": 25
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Truth Table.md->core:Pasted image 20221126001241.png1",
+          "source": "core:Truth Table.md",
+          "target": "core:Pasted image 20221126001241.png",
+          "context": "![[Pasted image 20221126001241.png]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 36
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Set Theory.md->core:Complex Number.md1",
+          "source": "core:Set Theory.md",
+          "target": "core:Complex Number.md",
+          "context": " - [[Complex Number]] $\\mathbb{C}$",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 3,
+          "end": 21
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Set Theory.md->core:Real Number.md1",
+          "source": "core:Set Theory.md",
+          "target": "core:Real Number.md",
+          "context": "\t - [[Real Number]] $\\mathbb{R}$",
+          "edgeCount": 1,
+          "line": 4,
+          "start": 4,
+          "end": 19
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Set Theory.md->core:Rational Numbers.md1",
+          "source": "core:Set Theory.md",
+          "target": "core:Rational Numbers.md",
+          "context": "\t\t - [[Rational Numbers]] $\\mathbb{Q}$",
+          "edgeCount": 1,
+          "line": 5,
+          "start": 5,
+          "end": 25
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Set Theory.md->core:Integer.md1",
+          "source": "core:Set Theory.md",
+          "target": "core:Integer.md",
+          "context": "\t\t\t - [[Integer]] $\\mathbb{Z}$",
+          "edgeCount": 1,
+          "line": 6,
+          "start": 6,
+          "end": 17
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Set Theory.md->core:Natural Number.md1",
+          "source": "core:Set Theory.md",
+          "target": "core:Natural Number.md",
+          "context": "\t\t\t\t - [[Natural Number]] $\\mathbb{N}$",
+          "edgeCount": 1,
+          "line": 7,
+          "start": 7,
+          "end": 25
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Science.md->core:Formal Science.md1",
+          "source": "core:Science.md",
+          "target": "core:Formal Science.md",
+          "context": "- [[Formal Science]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 2,
+          "end": 20
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Science.md->core:Natural Science.md1",
+          "source": "core:Science.md",
+          "target": "core:Natural Science.md",
+          "context": "- [[Natural Science]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 2,
+          "end": 21
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Science.md->core:Social Science.md1",
+          "source": "core:Science.md",
+          "target": "core:Social Science.md",
+          "context": "- [[Social Science]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 2,
+          "end": 20
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Sampling.md->core:Signals and Systems.md1",
+          "source": "core:Sampling.md",
+          "target": "core:Signals and Systems.md",
+          "context": "Theory based on [[Signals and Systems]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 16,
+          "end": 39
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Recursion Tree.md->core:Pasted image 20221122005308.png1",
+          "source": "core:Recursion Tree.md",
+          "target": "core:Pasted image 20221122005308.png",
+          "context": "![[Pasted image 20221122005308.png]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 36
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Recurrence Relation.md->core:Recursion Tree.md1",
+          "source": "core:Recurrence Relation.md",
+          "target": "core:Recursion Tree.md",
+          "context": "Mathematical equation that sums the total work of a [[Recursion Tree]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 52,
+          "end": 70
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Proof by Induction (Math Induction).md->core:Natural Number.md1",
+          "source": "core:Proof by Induction (Math Induction).md",
+          "target": "core:Natural Number.md",
+          "context": "Prove $P(m+1)$ assuming that $P(n)$ holds for all [[Natural Number]]s $n$ less than $m+1$. ",
+          "edgeCount": 1,
+          "line": 8,
+          "start": 50,
+          "end": 68
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Physics.md->core:Electrostatics.md1",
+          "source": "core:Physics.md",
+          "target": "core:Electrostatics.md",
+          "context": "[[Electrostatics]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 18
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Physical Science.md->core:Physics.md1",
+          "source": "core:Physical Science.md",
+          "target": "core:Physics.md",
+          "context": " - [[Physics]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 3,
+          "end": 14
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:NP-Complete.md->core:NP-Complete Problems.md1",
+          "source": "core:NP-Complete.md",
+          "target": "core:NP-Complete Problems.md",
+          "context": "[[NP-Complete Problems]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 24
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:NP-Complete Problems.md->core:Independent Set.md1",
+          "source": "core:NP-Complete Problems.md",
+          "target": "core:Independent Set.md",
+          "context": "[[Independent Set]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 19
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:NP-Complete Problems.md->core:Vertex Cover.md1",
+          "source": "core:NP-Complete Problems.md",
+          "target": "core:Vertex Cover.md",
+          "context": "[[Vertex Cover]]",
+          "edgeCount": 1,
+          "line": 5,
+          "start": 0,
+          "end": 16
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:NP-Complete Problems.md->core:Set Cover.md1",
+          "source": "core:NP-Complete Problems.md",
+          "target": "core:Set Cover.md",
+          "context": "[[Set Cover]]",
+          "edgeCount": 1,
+          "line": 6,
+          "start": 0,
+          "end": 13
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:NP-Complete Problems.md->core:3-Dimensional Matching.md1",
+          "source": "core:NP-Complete Problems.md",
+          "target": "core:3-Dimensional Matching.md",
+          "context": "[[3-Dimensional Matching]]",
+          "edgeCount": 1,
+          "line": 8,
+          "start": 0,
+          "end": 26
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:NP-Complete Problems.md->core:Graph Colouring.md1",
+          "source": "core:NP-Complete Problems.md",
+          "target": "core:Graph Colouring.md",
+          "context": "[[Graph Colouring]]",
+          "edgeCount": 1,
+          "line": 9,
+          "start": 0,
+          "end": 19
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Neurons.md->core:Rectified Linear Unit (ReLU).md1",
+          "source": "core:Neurons.md",
+          "target": "core:Rectified Linear Unit (ReLU).md",
+          "context": "Formula for a single neuron: $y=f(\\sum_{i=1}^N w_i x_i + b)$, where $w_i$ are the weights, $x_i$ is output of previous neuron, $b$ is the bias, $f$ is an activation function (usually non-linear such as [[Rectified Linear Unit (ReLU)]] or [[Sigmoid]]). Can be rewritten as $a^{(1)}=f(Wa^{(0)}+b)$, using vectors $a$, and matrix $W$. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 202,
+          "end": 234
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Neurons.md->core:Sigmoid.md1",
+          "source": "core:Neurons.md",
+          "target": "core:Sigmoid.md",
+          "context": "Formula for a single neuron: $y=f(\\sum_{i=1}^N w_i x_i + b)$, where $w_i$ are the weights, $x_i$ is output of previous neuron, $b$ is the bias, $f$ is an activation function (usually non-linear such as [[Rectified Linear Unit (ReLU)]] or [[Sigmoid]]). Can be rewritten as $a^{(1)}=f(Wa^{(0)}+b)$, using vectors $a$, and matrix $W$. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 238,
+          "end": 249
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Neural Network.md->core:Multilayer Perceptron.md1",
+          "source": "core:Neural Network.md",
+          "target": "core:Multilayer Perceptron.md",
+          "context": "[[Multilayer Perceptron]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 25
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Natural Science.md->core:Physical Science.md1",
+          "source": "core:Natural Science.md",
+          "target": "core:Physical Science.md",
+          "context": "- [[Physical Science]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 2,
+          "end": 22
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Natural Science.md->core:Life Science.md1",
+          "source": "core:Natural Science.md",
+          "target": "core:Life Science.md",
+          "context": "- [[Life Science]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 2,
+          "end": 18
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Multilayer Perceptron.md->core:Neurons.md1",
+          "source": "core:Multilayer Perceptron.md",
+          "target": "core:Neurons.md",
+          "context": "Consists of layers of [[Neurons]], with input, output and hidden layers. ",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 22,
+          "end": 33
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Matrix.md->core:Matrix Algebra.md1",
+          "source": "core:Matrix.md",
+          "target": "core:Matrix Algebra.md",
+          "context": "[[Matrix Algebra]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 18
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Math.md->core:Linear Algebra.md1",
+          "source": "core:Math.md",
+          "target": "core:Linear Algebra.md",
+          "context": "[[Linear Algebra]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 18
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Math.md->core:Math Proof.md1",
+          "source": "core:Math.md",
+          "target": "core:Math Proof.md",
+          "context": "[[Math Proof]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 14
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Math.md->core:Computation.md1",
+          "source": "core:Math.md",
+          "target": "core:Computation.md",
+          "context": "[[Computation]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Math.md->core:Calculus.md1",
+          "source": "core:Math.md",
+          "target": "core:Calculus.md",
+          "context": "[[Calculus]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 12
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Master Theorem.md->core:Recursion Tree.md1",
+          "source": "core:Master Theorem.md",
+          "target": "core:Recursion Tree.md",
+          "context": "Construct a [[Recursion Tree]], and notice that the root of the tree does $f(n)$ work, and the second level does $Af(an/b)+Bf(cn/d)$, ...",
+          "edgeCount": 1,
+          "line": 6,
+          "start": 12,
+          "end": 30
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Master Theorem.md->core:Pasted image 20221122003700.png1",
+          "source": "core:Master Theorem.md",
+          "target": "core:Pasted image 20221122003700.png",
+          "context": "![[Pasted image 20221122003700.png]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 36
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Master Theorem.md->core:Pasted image 20221123163646.png1",
+          "source": "core:Master Theorem.md",
+          "target": "core:Pasted image 20221123163646.png",
+          "context": "![[Pasted image 20221123163646.png]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 36
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Math Proof.md->core:Proof by Induction (Math Induction).md1",
+          "source": "core:Math Proof.md",
+          "target": "core:Proof by Induction (Math Induction).md",
+          "context": " - [[Proof by Induction (Math Induction)]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 3,
+          "end": 42
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Math Proof.md->core:Proof by Contraposition (Proof by Contrapositive).md1",
+          "source": "core:Math Proof.md",
+          "target": "core:Proof by Contraposition (Proof by Contrapositive).md",
+          "context": " - [[Proof by Contraposition (Proof by Contrapositive)]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 3,
+          "end": 56
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Math Proof.md->core:Proof by Contradiction.md1",
+          "source": "core:Math Proof.md",
+          "target": "core:Proof by Contradiction.md",
+          "context": " - [[Proof by Contradiction]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 3,
+          "end": 29
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Machine.md->core:Computation.md1",
+          "source": "core:Machine.md",
+          "target": "core:Computation.md",
+          "context": "A machine with sufficient [[Computation]] can be used for [[Artificial Intelligence]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 26,
+          "end": 41
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Machine.md->core:Artificial Intelligence.md1",
+          "source": "core:Machine.md",
+          "target": "core:Artificial Intelligence.md",
+          "context": "A machine with sufficient [[Computation]] can be used for [[Artificial Intelligence]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 58,
+          "end": 85
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Machine.md->core:Computer.md1",
+          "source": "core:Machine.md",
+          "target": "core:Computer.md",
+          "context": "[[Computer]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 12
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Logic.md->core:Truth Table.md1",
+          "source": "core:Logic.md",
+          "target": "core:Truth Table.md",
+          "context": "[[Truth Table]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Logic.md->core:Implication.md1",
+          "source": "core:Logic.md",
+          "target": "core:Implication.md",
+          "context": "[[Implication]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Logic.md->core:Biconditional.md1",
+          "source": "core:Logic.md",
+          "target": "core:Biconditional.md",
+          "context": "[[Biconditional]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 17
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Logic.md->core:Contrapostive.md1",
+          "source": "core:Logic.md",
+          "target": "core:Contrapostive.md",
+          "context": "[[Contrapostive]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 17
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Logic.md->core:Converse.md1",
+          "source": "core:Logic.md",
+          "target": "core:Converse.md",
+          "context": "[[Converse]]",
+          "edgeCount": 1,
+          "line": 4,
+          "start": 0,
+          "end": 12
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Logic.md->core:Inverse.md1",
+          "source": "core:Logic.md",
+          "target": "core:Inverse.md",
+          "context": "[[Inverse]]",
+          "edgeCount": 1,
+          "line": 5,
+          "start": 0,
+          "end": 11
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Machine Learning.md->core:Deep Learning.md1",
+          "source": "core:Machine Learning.md",
+          "target": "core:Deep Learning.md",
+          "context": "Vasts amount of data can lead to [[Deep Learning]]. ",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 33,
+          "end": 50
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Machine Learning.md->core:Neural Network.md1",
+          "source": "core:Machine Learning.md",
+          "target": "core:Neural Network.md",
+          "context": "[[Neural Network]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 18
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Linear Algebra.md->core:Vector.md1",
+          "source": "core:Linear Algebra.md",
+          "target": "core:Vector.md",
+          "context": "[[Vector]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 10
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Linear Algebra.md->core:Matrix.md1",
+          "source": "core:Linear Algebra.md",
+          "target": "core:Matrix.md",
+          "context": "[[Matrix]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 10
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Linear Algebra.md->core:Matrix Algebra.md1",
+          "source": "core:Linear Algebra.md",
+          "target": "core:Matrix Algebra.md",
+          "context": "[[Matrix Algebra]]",
+          "edgeCount": 1,
+          "line": 11,
+          "start": 0,
+          "end": 18
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Karnaugh Maps.md->core:Logic.md1",
+          "source": "core:Karnaugh Maps.md",
+          "target": "core:Logic.md",
+          "context": "Simplifies Digital [[Logic]] using a special [[Matrix]] whose sides are [[Power]]s of 2. \n                \n---\n\nUsually takes in a [[Truth Table]] as input and outputs simplified [[Logic]]. ",
+          "edgeCount": 2,
+          "line": 0,
+          "start": 19,
+          "end": 28
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Karnaugh Maps.md->core:Matrix.md1",
+          "source": "core:Karnaugh Maps.md",
+          "target": "core:Matrix.md",
+          "context": "Simplifies Digital [[Logic]] using a special [[Matrix]] whose sides are [[Power]]s of 2. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 45,
+          "end": 55
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Karnaugh Maps.md->core:Power.md1",
+          "source": "core:Karnaugh Maps.md",
+          "target": "core:Power.md",
+          "context": "Simplifies Digital [[Logic]] using a special [[Matrix]] whose sides are [[Power]]s of 2. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 72,
+          "end": 81
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Karnaugh Maps.md->core:Truth Table.md1",
+          "source": "core:Karnaugh Maps.md",
+          "target": "core:Truth Table.md",
+          "context": "Usually takes in a [[Truth Table]] as input and outputs simplified [[Logic]]. ",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 19,
+          "end": 34
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Karnaugh Maps.md->core:Pasted image 20221126002336.png1",
+          "source": "core:Karnaugh Maps.md",
+          "target": "core:Pasted image 20221126002336.png",
+          "context": "![[Pasted image 20221126002336.png]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 36
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Image Formation.md->core:Physics.md1",
+          "source": "core:Image Formation.md",
+          "target": "core:Physics.md",
+          "context": "Uses [[Physics]] to form images. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 5,
+          "end": 16
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Hardware.md->core:Digital Circuit.md1",
+          "source": "core:Hardware.md",
+          "target": "core:Digital Circuit.md",
+          "context": "[[Digital Circuit]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 19
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Hardware Description Language.md->core:Verilog.md1",
+          "source": "core:Hardware Description Language.md",
+          "target": "core:Verilog.md",
+          "context": "[[Verilog]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 11
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Image Filtering.md->core:Convolution.md1",
+          "source": "core:Image Filtering.md",
+          "target": "core:Convolution.md",
+          "context": "Manipulation of images, using using matrix [[Convolution]]s and [[Correlation]]s. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 43,
+          "end": 58
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Hardware Description.md->core:Hardware Description Language.md1",
+          "source": "core:Hardware Description.md",
+          "target": "core:Hardware Description Language.md",
+          "context": "[[Hardware Description Language]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 33
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Algorithm.md->core:Greedy Algorithm Proof.md1",
+          "source": "core:Greedy Algorithm.md",
+          "target": "core:Greedy Algorithm Proof.md",
+          "context": "[[Greedy Algorithm Proof]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 26
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Algorithm.md->core:Greedy Graph Colouring.md1",
+          "source": "core:Greedy Algorithm.md",
+          "target": "core:Greedy Graph Colouring.md",
+          "context": "[[Greedy Graph Colouring]]",
+          "edgeCount": 1,
+          "line": 13,
+          "start": 0,
+          "end": 26
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Algorithm.md->core:Min Interval Subset that Overlaps with All Intervals.md1",
+          "source": "core:Greedy Algorithm.md",
+          "target": "core:Min Interval Subset that Overlaps with All Intervals.md",
+          "context": "[[Min Interval Subset that Overlaps with All Intervals]]",
+          "edgeCount": 1,
+          "line": 14,
+          "start": 0,
+          "end": 56
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Algorithm.md->core:Optimal Scheduling.md1",
+          "source": "core:Greedy Algorithm.md",
+          "target": "core:Optimal Scheduling.md",
+          "context": "[[Optimal Scheduling]]",
+          "edgeCount": 1,
+          "line": 15,
+          "start": 0,
+          "end": 22
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Algorithm Proof.md->core:Proof by Induction (Math Induction).md1",
+          "source": "core:Greedy Algorithm Proof.md",
+          "target": "core:Proof by Induction (Math Induction).md",
+          "context": "A type of [[Proof by Induction (Math Induction)]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 10,
+          "end": 49
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Greedy Graph Colouring.md->core:Graph Colouring.md1",
+          "source": "core:Greedy Graph Colouring.md",
+          "target": "core:Graph Colouring.md",
+          "context": "Uses restrictions on the classic [[Graph Colouring]] to make it possible to use a greedy algorithm. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 33,
+          "end": 52
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Graphics Processing Unit (GPU).md->core:Matrix Algebra.md1",
+          "source": "core:Graphics Processing Unit (GPU).md",
+          "target": "core:Matrix Algebra.md",
+          "context": "Designed to process large amounts of image information and perform parallel tasks. Great at [[Matrix Algebra]]. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 92,
+          "end": 110
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Graph.md->core:Dominating Set.md1",
+          "source": "core:Graph.md",
+          "target": "core:Dominating Set.md",
+          "context": "[[Dominating Set]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 18
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Formal Science.md->core:Logic.md1",
+          "source": "core:Formal Science.md",
+          "target": "core:Logic.md",
+          "context": "- [[Logic]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 2,
+          "end": 11
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Formal Science.md->core:Math.md1",
+          "source": "core:Formal Science.md",
+          "target": "core:Math.md",
+          "context": "- [[Math]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 2,
+          "end": 10
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Formal Science.md->core:Statistics.md1",
+          "source": "core:Formal Science.md",
+          "target": "core:Statistics.md",
+          "context": "- [[Statistics]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 2,
+          "end": 16
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Formal Science.md->core:Computer Science.md1",
+          "source": "core:Formal Science.md",
+          "target": "core:Computer Science.md",
+          "context": "- [[Computer Science]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 2,
+          "end": 22
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Engineering.md->core:Electrical Engineering.md1",
+          "source": "core:Engineering.md",
+          "target": "core:Electrical Engineering.md",
+          "context": "[[Electrical Engineering]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 26
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Engineering.md->core:Computer Engineering.md1",
+          "source": "core:Engineering.md",
+          "target": "core:Computer Engineering.md",
+          "context": "[[Computer Engineering]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 24
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Electrical Engineering.md->core:Karnaugh Maps.md1",
+          "source": "core:Electrical Engineering.md",
+          "target": "core:Karnaugh Maps.md",
+          "context": "[[Karnaugh Maps]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 17
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Electrical Engineering.md->core:Signals and Systems.md1",
+          "source": "core:Electrical Engineering.md",
+          "target": "core:Signals and Systems.md",
+          "context": "[[Signals and Systems]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 23
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Dynamic Programming.md->core:Recurrence Relation.md1",
+          "source": "core:Dynamic Programming.md",
+          "target": "core:Recurrence Relation.md",
+          "context": "2. Define a [[Recurrence Relation]] for the optimal value of the objective function for the problem in terms of its optimal values for one or more subproblems",
+          "edgeCount": 1,
+          "line": 5,
+          "start": 12,
+          "end": 35
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Divide and Conquer.md->core:Recurrence Relation.md1",
+          "source": "core:Divide and Conquer.md",
+          "target": "core:Recurrence Relation.md",
+          "context": "Generally uses a [[Recurrence Relation]]. ",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 17,
+          "end": 40
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Divide and Conquer.md->core:Master Theorem.md1",
+          "source": "core:Divide and Conquer.md",
+          "target": "core:Master Theorem.md",
+          "context": " - [[Master Theorem]]",
+          "edgeCount": 1,
+          "line": 7,
+          "start": 3,
+          "end": 21
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Divide and Conquer.md->core:Recursion Tree.md1",
+          "source": "core:Divide and Conquer.md",
+          "target": "core:Recursion Tree.md",
+          "context": " - [[Recursion Tree]] with geometric series based on total work at each depth",
+          "edgeCount": 1,
+          "line": 8,
+          "start": 3,
+          "end": 21
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Divide and Conquer.md->core:Proof by Induction (Math Induction).md1",
+          "source": "core:Divide and Conquer.md",
+          "target": "core:Proof by Induction (Math Induction).md",
+          "context": " - [[Proof by Induction (Math Induction)]]",
+          "edgeCount": 1,
+          "line": 9,
+          "start": 3,
+          "end": 42
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Digital Circuit.md->core:Field-programmable Gate-Arrays (FPGA).md1",
+          "source": "core:Digital Circuit.md",
+          "target": "core:Field-programmable Gate-Arrays (FPGA).md",
+          "context": "Generally developed using [[Field-programmable Gate-Arrays (FPGA)]], to create [[Application-Specific Integrated Circuit (ASIC)]]s; both of which use [[Register-Transfer Level (RTL)]] [[Hardware Description]] designs. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 26,
+          "end": 67
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Digital Circuit.md->core:Application-Specific Integrated Circuit (ASIC).md1",
+          "source": "core:Digital Circuit.md",
+          "target": "core:Application-Specific Integrated Circuit (ASIC).md",
+          "context": "Generally developed using [[Field-programmable Gate-Arrays (FPGA)]], to create [[Application-Specific Integrated Circuit (ASIC)]]s; both of which use [[Register-Transfer Level (RTL)]] [[Hardware Description]] designs. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 79,
+          "end": 129
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Digital Circuit.md->core:Register-Transfer Level (RTL).md1",
+          "source": "core:Digital Circuit.md",
+          "target": "core:Register-Transfer Level (RTL).md",
+          "context": "Generally developed using [[Field-programmable Gate-Arrays (FPGA)]], to create [[Application-Specific Integrated Circuit (ASIC)]]s; both of which use [[Register-Transfer Level (RTL)]] [[Hardware Description]] designs. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 150,
+          "end": 183
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Digital Circuit.md->core:Hardware Description.md1",
+          "source": "core:Digital Circuit.md",
+          "target": "core:Hardware Description.md",
+          "context": "Generally developed using [[Field-programmable Gate-Arrays (FPGA)]], to create [[Application-Specific Integrated Circuit (ASIC)]]s; both of which use [[Register-Transfer Level (RTL)]] [[Hardware Description]] designs. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 184,
+          "end": 208
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Derivatives.md->core:Derivatives of Code.md1",
+          "source": "core:Derivatives.md",
+          "target": "core:Derivatives of Code.md",
+          "context": "[[Derivatives of Code]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 23
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Data Structure.md->core:Graph.md1",
+          "source": "core:Data Structure.md",
+          "target": "core:Graph.md",
+          "context": "[[Graph]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 9
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Convolution.md->core:Signals and Systems.md1",
+          "source": "core:Convolution.md",
+          "target": "core:Signals and Systems.md",
+          "context": "has applications in [[Signals and Systems]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 20,
+          "end": 43
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Convolution.md->core:Fourier Transform.md1",
+          "source": "core:Convolution.md",
+          "target": "core:Fourier Transform.md",
+          "context": " [[Fourier Transform]]s can sometimes reduce [[Time Complexity]] of convolutions. ",
+          "edgeCount": 1,
+          "line": 6,
+          "start": 1,
+          "end": 22
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Convolution.md->core:Time Complexity.md1",
+          "source": "core:Convolution.md",
+          "target": "core:Time Complexity.md",
+          "context": " [[Fourier Transform]]s can sometimes reduce [[Time Complexity]] of convolutions. ",
+          "edgeCount": 1,
+          "line": 6,
+          "start": 45,
+          "end": 64
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Vision.md->core:Image Formation.md1",
+          "source": "core:Computer Vision.md",
+          "target": "core:Image Formation.md",
+          "context": " - [[Image Formation]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 3,
+          "end": 22
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Vision.md->core:Image Filtering.md1",
+          "source": "core:Computer Vision.md",
+          "target": "core:Image Filtering.md",
+          "context": " - [[Image Filtering]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 3,
+          "end": 22
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Vision.md->core:Sampling.md1",
+          "source": "core:Computer Vision.md",
+          "target": "core:Sampling.md",
+          "context": " - [[Sampling]]",
+          "edgeCount": 1,
+          "line": 4,
+          "start": 3,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer.md->core:Computer Science.md1",
+          "source": "core:Computer.md",
+          "target": "core:Computer Science.md",
+          "context": "The hardware foundation of [[Computer Science]]. ",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 27,
+          "end": 47
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer.md->core:Computer Vision.md1",
+          "source": "core:Computer.md",
+          "target": "core:Computer Vision.md",
+          "context": "[[Computer Vision]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 19
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Science.md->core:Data Structure.md1",
+          "source": "core:Computer Science.md",
+          "target": "core:Data Structure.md",
+          "context": "[[Data Structure]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 18
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Science.md->core:Algorithm.md1",
+          "source": "core:Computer Science.md",
+          "target": "core:Algorithm.md",
+          "context": "[[Algorithm]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 13
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Science.md->core:Computational Complexity.md1",
+          "source": "core:Computer Science.md",
+          "target": "core:Computational Complexity.md",
+          "context": "[[Computational Complexity]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 28
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Science.md->core:Derivatives of Code.md1",
+          "source": "core:Computer Science.md",
+          "target": "core:Derivatives of Code.md",
+          "context": "[[Derivatives of Code]]",
+          "edgeCount": 1,
+          "line": 4,
+          "start": 0,
+          "end": 23
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Science.md->core:Math Proof.md1",
+          "source": "core:Computer Science.md",
+          "target": "core:Math Proof.md",
+          "context": "[[Math Proof]]",
+          "edgeCount": 1,
+          "line": 6,
+          "start": 0,
+          "end": 14
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Science.md->core:Set Theory.md1",
+          "source": "core:Computer Science.md",
+          "target": "core:Set Theory.md",
+          "context": "[[Set Theory]]",
+          "edgeCount": 1,
+          "line": 7,
+          "start": 0,
+          "end": 14
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Science.md->core:Computer.md1",
+          "source": "core:Computer Science.md",
+          "target": "core:Computer.md",
+          "context": "[[Computer]]",
+          "edgeCount": 1,
+          "line": 9,
+          "start": 0,
+          "end": 12
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Engineering.md->core:Data Structure.md1",
+          "source": "core:Computer Engineering.md",
+          "target": "core:Data Structure.md",
+          "context": " - [[Software]], which focuses on using [[Data Structure]]s and [[Algorithm]]s to solve problems",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 40,
+          "end": 58
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Engineering.md->core:Algorithm.md1",
+          "source": "core:Computer Engineering.md",
+          "target": "core:Algorithm.md",
+          "context": " - [[Software]], which focuses on using [[Data Structure]]s and [[Algorithm]]s to solve problems",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 64,
+          "end": 77
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Engineering.md->core:Hardware.md1",
+          "source": "core:Computer Engineering.md",
+          "target": "core:Hardware.md",
+          "context": " - [[Hardware]], which uses [[Electrical Engineering]] and [[Computation]] to solve problems. ",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 3,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Engineering.md->core:Electrical Engineering.md1",
+          "source": "core:Computer Engineering.md",
+          "target": "core:Electrical Engineering.md",
+          "context": " - [[Hardware]], which uses [[Electrical Engineering]] and [[Computation]] to solve problems. ",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 28,
+          "end": 54
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computer Engineering.md->core:Computation.md1",
+          "source": "core:Computer Engineering.md",
+          "target": "core:Computation.md",
+          "context": " - [[Hardware]], which uses [[Electrical Engineering]] and [[Computation]] to solve problems. ",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 59,
+          "end": 74
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computational Complexity.md->core:Time Complexity.md1",
+          "source": "core:Computational Complexity.md",
+          "target": "core:Time Complexity.md",
+          "context": "[[Time Complexity]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 19
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computational Complexity.md->core:NP-Complete.md1",
+          "source": "core:Computational Complexity.md",
+          "target": "core:NP-Complete.md",
+          "context": "[[NP-Complete]]",
+          "edgeCount": 1,
+          "line": 4,
+          "start": 0,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Complex Number.md->core:Real Number.md1",
+          "source": "core:Complex Number.md",
+          "target": "core:Real Number.md",
+          "context": "A combination of a [[Real Number]] and a[[Imaginary Number]], represented as $a+bi$, where $i=\\sqrt{-1}$. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 19,
+          "end": 34
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Calculus.md->core:Derivatives.md1",
+          "source": "core:Calculus.md",
+          "target": "core:Derivatives.md",
+          "context": "[[Derivatives]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computation.md->core:Arithmetic.md1",
+          "source": "core:Computation.md",
+          "target": "core:Arithmetic.md",
+          "context": "Any type of [[Arithmetic]]) or non-arithmetic calculation that follows a well-defined model (e.g., an [[Algorithm]]). ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 12,
+          "end": 26
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computation.md->core:Algorithm.md1",
+          "source": "core:Computation.md",
+          "target": "core:Algorithm.md",
+          "context": "Any type of [[Arithmetic]]) or non-arithmetic calculation that follows a well-defined model (e.g., an [[Algorithm]]). ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 102,
+          "end": 115
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Computation.md->core:Computer.md1",
+          "source": "core:Computation.md",
+          "target": "core:Computer.md",
+          "context": "Generally performed on [[Computer]]s. ",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 23,
+          "end": 35
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Artificial Intelligence.md->core:Machine Learning.md1",
+          "source": "core:Artificial Intelligence.md",
+          "target": "core:Machine Learning.md",
+          "context": "Doing so without explicit instructions leads to [[Machine Learning]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 48,
+          "end": 68
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Artificial Intelligence.md->core:Computer Vision.md1",
+          "source": "core:Artificial Intelligence.md",
+          "target": "core:Computer Vision.md",
+          "context": "[[Computer Vision]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 19
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Applied Science.md->core:Engineering.md1",
+          "source": "core:Applied Science.md",
+          "target": "core:Engineering.md",
+          "context": "[[Engineering]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Applied Science.md->core:Computation.md1",
+          "source": "core:Applied Science.md",
+          "target": "core:Computation.md",
+          "context": "[[Computation]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Applied Science.md->core:Machine.md1",
+          "source": "core:Applied Science.md",
+          "target": "core:Machine.md",
+          "context": "[[Machine]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 11
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Application-Specific Integrated Circuit (ASIC).md->core:Graphics Processing Unit (GPU).md1",
+          "source": "core:Application-Specific Integrated Circuit (ASIC).md",
+          "target": "core:Graphics Processing Unit (GPU).md",
+          "context": "[[Graphics Processing Unit (GPU)]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 34
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Algorithm.md->core:Greedy Algorithm.md1",
+          "source": "core:Algorithm.md",
+          "target": "core:Greedy Algorithm.md",
+          "context": "If you have a simple, local criterion to make a choice that leads to an optimal solution, use [[Greedy Algorithm]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 94,
+          "end": 114
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Algorithm.md->core:Dynamic Programming.md1",
+          "source": "core:Algorithm.md",
+          "target": "core:Dynamic Programming.md",
+          "context": "If you don't and subproblems overlap, use [[Dynamic Programming]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 42,
+          "end": 65
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Algorithm.md->core:Divide and Conquer.md1",
+          "source": "core:Algorithm.md",
+          "target": "core:Divide and Conquer.md",
+          "context": "If subproblems don't overlap, use [[Divide and Conquer]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 34,
+          "end": 56
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Knowledge.md->core:Science.md1",
+          "source": "core:-Knowledge.md",
+          "target": "core:Science.md",
+          "context": "[[Science]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 11
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Knowledge.md->core:Applied Science.md1",
+          "source": "core:-Knowledge.md",
+          "target": "core:Applied Science.md",
+          "context": "[[Applied Science]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 0,
+          "end": 19
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Overwatch.md->core:What tanks for what.md1",
+          "source": "core:Overwatch.md",
+          "target": "core:What tanks for what.md",
+          "context": "[[What tanks for what]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 23
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:Games.md->core:Overwatch.md1",
+          "source": "core:Games.md",
+          "target": "core:Overwatch.md",
+          "context": "[[Overwatch]]",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 0,
+          "end": 13
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md->core:Interview Copypasta.md1",
+          "source": "core:-Life.md",
+          "target": "core:Interview Copypasta.md",
+          "context": "[[Interview Copypasta]]",
+          "edgeCount": 1,
+          "line": 2,
+          "start": 0,
+          "end": 23
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md->core:Prospective Shopping List.md1",
+          "source": "core:-Life.md",
+          "target": "core:Prospective Shopping List.md",
+          "context": "[[Prospective Shopping List]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 29
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md->core:Vancouver as a City.md1",
+          "source": "core:-Life.md",
+          "target": "core:Vancouver as a City.md",
+          "context": "[[Vancouver as a City]]",
+          "edgeCount": 1,
+          "line": 4,
+          "start": 0,
+          "end": 23
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md->core:Foodstuff.md1",
+          "source": "core:-Life.md",
+          "target": "core:Foodstuff.md",
+          "context": "[[Foodstuff]]",
+          "edgeCount": 1,
+          "line": 5,
+          "start": 0,
+          "end": 13
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md->core:Bucket List.md1",
+          "source": "core:-Life.md",
+          "target": "core:Bucket List.md",
+          "context": "[[Bucket List]]",
+          "edgeCount": 1,
+          "line": 6,
+          "start": 0,
+          "end": 15
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md->core:Exercise.md1",
+          "source": "core:-Life.md",
+          "target": "core:Exercise.md",
+          "context": "[[Exercise]]",
+          "edgeCount": 1,
+          "line": 7,
+          "start": 0,
+          "end": 12
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md->core:Games.md1",
+          "source": "core:-Life.md",
+          "target": "core:Games.md",
+          "context": "[[Games]]",
+          "edgeCount": 1,
+          "line": 8,
+          "start": 0,
+          "end": 9
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:-Life.md->core:Words to Describe Myself.md1",
+          "source": "core:-Life.md",
+          "target": "core:Words to Describe Myself.md",
+          "context": "[[Words to Describe Myself]]",
+          "edgeCount": 1,
+          "line": 9,
+          "start": 0,
+          "end": 28
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:2022-10-18.md->core:Recording 20221018225004.webm1",
+          "source": "core:2022-10-18.md",
+          "target": "core:Recording 20221018225004.webm",
+          "context": "![[Recording 20221018225004.webm]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 34
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:2022-10-21.md->core:Recording 20221021233031.webm1",
+          "source": "core:2022-10-21.md",
+          "target": "core:Recording 20221021233031.webm",
+          "context": "![[Recording 20221021233031.webm]]",
+          "edgeCount": 1,
+          "line": 3,
+          "start": 0,
+          "end": 34
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:2022-08-27.md->core:Bucket List.md1",
+          "source": "core:2022-08-27.md",
+          "target": "core:Bucket List.md",
+          "context": "Another day of practicing 'Perfect' on piano has made me want to get a guitar, and also have a list of my [[Bucket List]]",
+          "edgeCount": 1,
+          "line": 1,
+          "start": 106,
+          "end": 121
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      },
+      {
+        "data": {
+          "id": "core:2022-08-20.md->core:Stuff Made Here.md1",
+          "source": "core:2022-08-20.md",
+          "target": "core:Stuff Made Here.md",
+          "context": "Did my last summer final yesterday, for MATH 302. Think I did well, when compared to the midterm. Motiviated by the youtuber [[Stuff Made Here]], I've considered getting a 3D printer, which reminded me of the drawing app that he uses, which reminded me of Obsidian, and how I still need to restructure everything. Here we are. ",
+          "edgeCount": 1,
+          "line": 0,
+          "start": 125,
+          "end": 144
+        },
+        "position": { "x": 0, "y": 0 },
+        "group": "edges",
+        "removed": false,
+        "selected": false,
+        "selectable": true,
+        "locked": false,
+        "grabbable": true,
+        "pannable": true,
+        "classes": "inline"
+      }
+    ]
+  },
+  "style": [
+    {
+      "selector": "node",
+      "style": {
+        "background-color": "rgb(85,162,214)",
+        "color": "rgb(181,181,181)",
+        "font-family": "Helvetica Neue",
+        "text-valign": "bottom",
+        "shape": "ellipse",
+        "border-width": "0px",
+        "text-wrap": "wrap",
+        "min-zoomed-font-size": "8px"
+      }
+    },
+    { "selector": "node[name]", "style": { "label": "data(name)" } },
+    {
+      "selector": "node[degree]",
+      "style": {
+        "width": "mapData(degree, 0, 60, 5, 35)",
+        "height": "mapData(degree, 0, 60, 5, 35)",
+        "font-size": "mapData(degree, 0, 60, 5, 11)",
+        "text-opacity": "mapData(degree, 0, 60, 0.7, 1)",
+        "text-max-width": "mapData(degree, 0, 60, 65px, 100px)"
+      }
+    },
+    {
+      "selector": "node:selected",
+      "style": { "background-blacken": "0.3", "font-weight": "bold" }
+    },
+    {
+      "selector": "node:selected[degree]",
+      "style": { "border-width": "mapData(degree, 0, 60, 1, 3)" }
+    },
+    { "selector": ".dangling", "style": { "background-color": "rgb(240,128,128)" } },
+    {
+      "selector": ".image",
+      "style": {
+        "shape": "round-rectangle",
+        "width": "50px",
+        "height": "50px",
+        "background-opacity": "0",
+        "background-image": "data(resource_url)",
+        "background-image-crossorigin": "anonymous",
+        "background-image-opacity": "1",
+        "background-fit": "contain",
+        "font-size": "0px",
+        "background-clip": "node"
+      }
+    },
+    { "selector": ".image.note", "style": { "font-size": "mapData(degree, 0, 60, 5, 11)" } },
+    {
+      "selector": "edge",
+      "style": {
+        "line-color": "rgb(140,140,140)",
+        "loop-sweep": "-50deg",
+        "loop-direction": "-45deg",
+        "width": "0.7px",
+        "target-arrow-shape": "vee",
+        "target-arrow-fill": "filled",
+        "target-arrow-color": "rgb(140,140,140)",
+        "arrow-scale": "0.55",
+        "font-size": "6px",
+        "font-family": "Helvetica Neue",
+        "color": "rgb(181,181,181)",
+        "curve-style": "straight"
+      }
+    },
+    {
+      "selector": "edge[edgeCount]",
+      "style": {
+        "width": "mapData(edgeCount, 1, 50, 0.55, 3)",
+        "arrow-scale": "mapData(edgeCount, 1, 50, 0.35, 1.5)"
+      }
+    },
+    {
+      "selector": "edge:selected",
+      "style": { "width": "0.7px", "font-weight": "bold", "line-color": "rgb(45,130,204)" }
+    },
+    { "selector": ":loop", "style": { "display": "none" } },
+    { "selector": "edge[type]", "style": { "label": "data(type)" } },
+    { "selector": ".inactive-node, .unhover", "style": { "opacity": "0.3" } },
+    {
+      "selector": "node.active-node, node.hover",
+      "style": {
+        "background-color": "rgb(45,130,204)",
+        "font-weight": "bold",
+        "border-width": "0.4px",
+        "border-color": "rgb(0,0,0)",
+        "opacity": "1"
+      }
+    },
+    {
+      "selector": "edge.hover, edge.connected-active-node, edge.connected-hover",
+      "style": { "width": "1px", "opacity": "1" }
+    },
+    {
+      "selector": "edge.hover, edge.connected-hover",
+      "style": {
+        "font-weight": "bold",
+        "line-color": "rgb(45,130,204)",
+        "target-arrow-color": "rgb(45,130,204)"
+      }
+    },
+    { "selector": "node.pinned", "style": { "border-style": "dotted", "border-width": "2px" } },
+    {
+      "selector": "node.protected",
+      "style": {
+        "ghost": "yes",
+        "ghost-offset-x": "1px",
+        "ghost-offset-y": "1px",
+        "ghost-opacity": "0.5"
+      }
+    },
+    { "selector": "node.hard-filtered, node.filtered", "style": { "display": "none" } },
+    {
+      "selector": "node.global-0",
+      "style": {
+        "background-color": "rgb(240,128,128)",
+        "shape": "ellipse",
+        "background-fit": "contain",
+        "width": "mapData(degree, 0, 60, 5, 35)",
+        "height": "mapData(degree, 0, 60, 5, 35)",
+        "font-size": "mapData(degree, 0, 60, 5, 11)",
+        "text-max-width": "mapData(degree, 0, 60, 65px, 100px)"
+      }
+    },
+    {
+      "selector": "node.global-1",
+      "style": {
+        "background-color": "rgb(85,162,214)",
+        "shape": "ellipse",
+        "background-fit": "contain",
+        "width": "mapData(degree, 0, 60, 5, 35)",
+        "height": "mapData(degree, 0, 60, 5, 35)",
+        "font-size": "mapData(degree, 0, 60, 5, 11)",
+        "text-max-width": "mapData(degree, 0, 60, 65px, 100px)"
+      }
+    },
+    { "selector": "node[title]", "style": { "label": "data(title)" } },
+    { "selector": "node[color]", "style": { "background-color": "data(color)" } },
+    { "selector": "node[shape]", "style": { "shape": "data(shape)" } },
+    { "selector": "node[width]", "style": { "width": "data(width)" } },
+    { "selector": "node[height]", "style": { "width": "data(height)" } },
+    { "selector": "node[image]", "style": { "background-image": "data(image)" } }
+  ],
+  "data": {},
+  "zoomingEnabled": true,
+  "userZoomingEnabled": true,
+  "zoom": 1.0776876525356027,
+  "minZoom": 0.3,
+  "maxZoom": 10,
+  "panningEnabled": true,
+  "userPanningEnabled": true,
+  "pan": { "x": -39.2936962618827, "y": -51.497733493970316 },
+  "boxSelectionEnabled": true,
+  "renderer": { "name": "canvas" },
+  "wheelSensitivity": 1
+}

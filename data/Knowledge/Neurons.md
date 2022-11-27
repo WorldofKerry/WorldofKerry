@@ -1,0 +1,2 @@
+Formula for a single neuron: $y=f(\sum_{i=1}^N w_i x_i + b)$, where $w_i$ are the weights, $x_i$ is output of previous neuron, $b$ is the bias, $f$ is an activation function (usually non-linear such as [[Rectified Linear Unit (ReLU)]] or [[Sigmoid]]). Can be rewritten as $a^{(1)}=f(Wa^{(0)}+b)$, using vectors $a$, and matrix $W$.
+The bias term reflects how much 'stimulation' the neuron must get to activate.

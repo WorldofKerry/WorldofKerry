@@ -4,7 +4,7 @@ import path from 'path'
 
 const root = process.cwd()
 
-const entries = Array.from(fs.readdirSync(path.join(root, 'data', 'obsidian'))).map((entry) => {
+const entries = Array.from(fs.readdirSync(path.join(root, 'data', 'Knowledge'))).map((entry) => {
   // parse xxx.md to xxx
   const name = entry.split('.')[0]
   // replace space with dash
@@ -27,7 +27,7 @@ export async function getStaticPaths() {
 export async function getStaticProps({ params }) {
   const entry = entries.filter((entry) => entry.route === params.entry)[0]
   const filePath = entry.filePath
-  const markdown = fs.readFileSync(path.join(root, 'data', 'obsidian', filePath), 'utf8')
+  const markdown = fs.readFileSync(path.join(root, 'data', 'Knowledge', filePath), 'utf8')
   return { props: { markdown: markdown, title: entry.name } }
 }
 
