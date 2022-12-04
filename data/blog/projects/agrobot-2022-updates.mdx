@@ -1,0 +1,21 @@
+---
+title: My 2022 Agrobot Progress
+date: '2022-12-03T00:00:00-0800'
+tags: ['project', 'software', 'python', 'tensorflow', 'agrobot']
+draft: false
+summary: 'Image recognition work for the UBC Agrobot Design Team'
+---
+
+[**Agrobot Website**](https://ubcagrobot.com/)
+
+# Image recognition work for the UBC Agrobot Design Team
+
+## Biomass Estimation using Intel Realsense Depth Camera
+
+A part of the contest involves estimating the amount of biomass present in a crop field in mass. The biomass team and I decided that using an Intel Realsense Depth is the most appropriate. I wrote a script that processes `.bag` files into rgbd data. The depth of each pixel is then used to estimate the area -> volume -> mass of the vegetation. The script is still in development, but the results are promising.
+
+## Plant Image Segmentation
+
+Implemented an algorithm that efficiently segments vegetation/plants from the rest of the image, such that our object detection folks can use the segmented plant data to train a more generalized model.
+The process included the use of Otsu thresholding, and various filters. The algorithm was implemented in Python and OpenCV.
+![Plant Image Segmentation](/static/images/agrobot2-plant-seg.png)

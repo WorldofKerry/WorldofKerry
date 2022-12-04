@@ -6,6 +6,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
   const router = useRouter()
   return (
     <Head>
+      <meta name="google-site-verification" content="EEi2YPsk2JXxQC3zbRSs3wR84ezclo40kGzoG6W0Z-U" />
       <title>{title}</title>
       <meta name="robots" content="follow, index" />
       <meta name="description" content={description} />

@@ -12,7 +12,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
   github: 'https://github.com/WorldofKerry/',
-  twitter: 'https://twitter.com/Twitter',
+  twitter: 'https://twitter.com/kerrywang369',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/in/kerry-wang369/',
