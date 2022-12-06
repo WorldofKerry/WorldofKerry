@@ -43,7 +43,7 @@ export default function Graph({ graph }) {
   const { theme, resolvedTheme } = useTheme()
   return (
     <>
-      <h1>Plz interact with me :3</h1>
+      <h1>Click on the nodes for more info!</h1>
       <CytoscapeComponent
         elements={elements}
         style={{
@@ -56,15 +56,38 @@ export default function Graph({ graph }) {
             selector: 'node',
             style: {
               label: 'data(label)',
-              color: theme === 'dark' || resolvedTheme === 'dark' ? '#ffffff' : '#000000',
+              color: '#000000',
+              'text-valign': 'center',
+              'text-halign': 'center',
+              'background-color': '#A020F0',
+              'text-outline-color': '#FFFF00',
+              'text-outline-width': 1,
+              'text-outline-opacity': 0.75,
+              'font-size': 5,
+              'font-weight': 'bold',
+              'text-wrap': 'wrap',
+              'text-max-width': '15px',
+              // 'text-background-color': '#ffffff',
+              // 'text-background-opacity': 0.5,
+              // 'text-background-shape': 'roundrectangle',
+              // 'text-background-padding': '5px',
+              // 'text-border-color': '#000000',
+              // 'text-border-opacity': 0.5,
+              // 'text-border-width': 1,
+              // 'text-border-style': 'solid',
+              // 'text-border-shape': 'roundrectangle',
+              // 'text-margin-y': '-5px',
+              'text-margin-x': '0px',
+              'text-events': 'yes',
+              'text-rotation': 'autorotate',
             },
           },
-          // {
-          //   selector: 'edge',
-          //   style: {
-          //     width: 1,
-          //   },
-          // },
+          {
+            selector: 'edge',
+            style: {
+              width: 0.75,
+            },
+          },
         ]}
         cy={(cy) => {
           cy.on('tap', 'node', function (evt) {
