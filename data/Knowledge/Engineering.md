@@ -1,2 +1,4 @@
-[[Electrical Engineering]]
-[[Computer Engineering]]
+- [[Electrical Engineering]]
+- [[Computer Engineering]]
+- [[Mechanical Engineering]]
+- [[Civil Engineering]]

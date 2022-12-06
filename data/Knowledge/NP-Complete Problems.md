@@ -28,3 +28,7 @@
 ### Constraint Satisfaction Problems
 
 [[3-SAT]]
+
+## Other Problems
+
+[[Dominating Set]]

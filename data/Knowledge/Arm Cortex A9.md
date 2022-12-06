@@ -1,0 +1,1 @@
+A dual-core processor.

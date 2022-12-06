@@ -1,0 +1,3 @@
+The DE1-SoC Computer includes a 256 KB memory that is implemented inside the FPGA. This memory is organized as 64K x 32 bits, and spans addresses in the range 0x08000000 to 0x0803FFFF. The memory is used as a pixel buffer for the video-out and video-in ports.
+Verilog modules can be generated using [[Intel Quartus Prime Software]] -> Tools -> IP Catalog -> Basic Functions -> On Chip Memory -> RAM: 1-PORT. These modules are retained during RTL synthesis, and can be viewed inside of Modelsim.
+The memory can be modified/analyzed using [[Intel Quartus Prime Software]] -> Tools -> In-System Memory Content Editor.

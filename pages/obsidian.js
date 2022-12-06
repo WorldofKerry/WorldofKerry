@@ -72,6 +72,10 @@ export default function Graph({ graph }) {
             window.location.href = evt.target.data('href')
             // console.log(evt.target.style())
           })
+          let options = {
+            name: 'cose',
+          }
+          cy.layout(options)
         }}
       />
     </>
