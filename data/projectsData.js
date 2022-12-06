@@ -7,23 +7,21 @@ const projectsData = [
   //   imgSrc: '/static/images/google.png',
   //   href: 'https://www.google.com',
   // },
-  // {
-  //   title: 'The Time Machine',
-  //   description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-  //   to the desired date and press "Go". No more worrying about lost keys or
-  //   forgotten headphones with this simple yet affordable solution.`,
-  //   imgSrc: '/static/images/time-machine.jpg',
-  //   href: '/blog/the-time-machine',
-  // },
-  // {
-  //   title: 'UBC Agrobot',
-  //   description: `Image recognition work for the UBC Agrobot Design Team`,
-  //   imgSrc: '',
-  //   href: '/blog/agrobot',
-  // },
+  {
+    title: 'Past Projects',
+    description: `A collection of past projects I've worked on.`,
+    imgSrc: '/static/images/knowledge-1.png',
+    href: '/tags/project',
+  },
+  {
+    title: 'UBC Agrobot',
+    description: `Image recognition work for the UBC Agrobot Design Team. `,
+    imgSrc: '/static/images/agrobot-3.jfif',
+    href: '/tags/agrobot',
+  },
   {
     title: 'Cooking Speedrun',
-    description: `Quick, nutritious, cheap, and delicious.`,
+    description: `Quick, nutritious, cheap, and delicious. The four qualities to good food. `,
     imgSrc: '/static/images/cookingspeedrun.png',
     href: 'https://www.instagram.com/cookingspeedrun/',
   },
@@ -35,7 +33,7 @@ const projectsData = [
   // },
   {
     title: 'Obsidian Garden',
-    description: `Notes from courses and life.`,
+    description: `Notes from various courses, with focus on algorithms, data structures and computer vision. `,
     imgSrc: '/static/images/obsidian.png',
     href: '/obsidian',
   },
