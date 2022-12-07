@@ -22,9 +22,9 @@ const Screen = ({ value }) => {
   }
   return (
     <>
-      <text style={numStyle}>{value.toString()}</text>
+      <text style={numStyle}>{value !== undefined ? value.toFixed(0).toString() : 0}</text>
       <text style={unitStyle}>lbs</text>
-      <text style={numStyle}>{lbsToKg(value).toFixed(0).toString()}</text>
+      <text style={numStyle}>{value !== undefined ? lbsToKg(value).toFixed(0).toString() : 0}</text>
       <text style={unitStyle}>kg</text>
     </>
   )
@@ -55,13 +55,30 @@ const UndoButton = ({ onClick }) => {
 }
 
 export default function Workout() {
-  const [calculaterAnswer, setCalculaterAnswer] = useState(0)
+  const [calculaterAnswer, __setCalculaterAnswer] = useState(0)
+  const [calculatorPrevAnswers, __setCalculatorPrevAnswers] = useState([])
+
+  function setCalculaterAnswer(value) {
+    __setCalculatorPrevAnswers([...calculatorPrevAnswers, calculaterAnswer])
+    __setCalculaterAnswer(value)
+  }
+
+  function undoCalculaterAnswer() {
+    __setCalculaterAnswer(calculatorPrevAnswers[calculatorPrevAnswers.length - 1])
+    __setCalculatorPrevAnswers(calculatorPrevAnswers.slice(0, -1))
+  }
+
+  function resetCalculaterAnswer() {
+    __setCalculaterAnswer(0)
+    __setCalculatorPrevAnswers([])
+  }
+
   return (
     <div>
       {/* <h1 style={{ color: 'lightblue', fontSize: 50 }}>Calculator</h1> */}
+      <ResetButton onClick={() => resetCalculaterAnswer()} />
+      <UndoButton onClick={() => undoCalculaterAnswer()} />
       <Screen value={calculaterAnswer} />
-      <UndoButton onClick={() => setCalculaterAnswer(calculaterAnswer - 45)} />
-      <ResetButton onClick={() => setCalculaterAnswer(0)} />
       <br />
       <AddButton value={45} onClick={() => setCalculaterAnswer(calculaterAnswer + 45)} />
       <AddButton value={25} onClick={() => setCalculaterAnswer(calculaterAnswer + 25)} />
