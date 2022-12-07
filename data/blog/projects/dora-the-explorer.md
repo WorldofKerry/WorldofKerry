@@ -4,7 +4,7 @@ date: '2022-04-06'
 image: '/images/dora.png'
 tags: ['project', 'software', 'hardware']
 draft: false
-summary: ''
+summary: 'A exploring rover using a raspberry pi, sensors, motors, and wheels. '
 ---
 
 - A explorer robot that is able to be to be commanded in a way similar to google maps street view

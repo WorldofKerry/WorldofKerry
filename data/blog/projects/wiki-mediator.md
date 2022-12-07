@@ -3,7 +3,7 @@ title: 'Wikipedia Mediator Buffer'
 date: '2021-12-07'
 tags: ['project', 'software']
 draft: false
-summary: ''
+summary: 'A wikipedia mediator buffer to learn fundementals of concurrency. '
 ---
 
 A wikipedia mediator that collects caches wikipedia pages and collects statistics on usage.

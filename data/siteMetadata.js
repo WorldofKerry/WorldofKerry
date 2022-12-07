@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Kerry Wang',
   author: 'Kerry Wang',
   headerTitle: 'Kerry Wang',
-  description: 'A site dedicated to the obscure thoughts of Kerry Wang',
+  description: 'Dedicated to the obscure thoughts and creations of Kerry Wang',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'kerrywang.tk',

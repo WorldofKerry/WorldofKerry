@@ -4,7 +4,7 @@ date: '2020-05-18'
 image: '/images/medicare.png'
 tags: ['project', 'software']
 draft: false
-summary: ''
+summary: 'Java Android app to make it easier for diabetics to keep track of their medical needs. '
 ---
 
 - Java Android app to make it easier for diabetics to keep track of their medical needs
