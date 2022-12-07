@@ -1,6 +1,18 @@
 import { useState } from 'react'
 
-const buttonStyle = { backgroundColor: 'lightblue', color: 'white', fontSize: 50, margin: 10 }
+const kgColour = 'green'
+const lbsColour = 'lightblue'
+const buttonStyle = {
+  backgroundColor: 'lightblue',
+  color: 'white',
+  margin: 10,
+  width: 120,
+  height: 100,
+}
+const numStyle = {
+  color: 'lightblue',
+  fontSize: 45,
+}
 
 const unitStyle = {
   color: 'lightblue',
@@ -16,97 +28,154 @@ function kgToLbs(kg) {
 }
 
 const Screen = ({ value }) => {
-  const numStyle = {
-    color: 'lightblue',
-    fontSize: 80,
-  }
+  var numStyleLbs = { ...numStyle, color: lbsColour }
+  var numStyleKg = { ...numStyle, color: kgColour }
+  var unitStyleLbs = { ...unitStyle, color: lbsColour }
+  var unitStyleKg = { ...unitStyle, color: kgColour }
+  numStyleLbs.fontSize = numStyleLbs.fontSize * 1.5
+  numStyleKg.fontSize = numStyleKg.fontSize * 1.5
   return (
     <>
-      <text style={numStyle}>{value !== undefined ? value.toFixed(0).toString() : 0}</text>
-      <text style={unitStyle}>lbs</text>
-      <text style={numStyle}>{value !== undefined ? lbsToKg(value).toFixed(0).toString() : 0}</text>
-      <text style={unitStyle}>kg</text>
+      <text style={numStyleLbs}>{value.toFixed(0).toString()}</text>
+      <text style={unitStyleLbs}>lbs </text>
+      <text style={numStyleKg}> {lbsToKg(value).toFixed(0).toString()}</text>
+      <text style={unitStyleKg}>kg </text>
     </>
   )
 }
 
-const AddButton = ({ value, onClick }) => {
+const AddButtonLbs = ({ value, calculator }) => {
+  // const fontSize = Math.min(
+  //   (2 / value.toString().length) * buttonStyle.fontSize,
+  //   buttonStyle.fontSize
+  // )
+  const _buttonStyle = { ...buttonStyle, backgroundColor: lbsColour }
+  const _fontStyle = { fontSize: 45 }
+  function onClick() {
+    calculator.setAns(calculator.calculaterAnswer + value)
+  }
   return (
-    <button onClick={onClick} style={buttonStyle}>
-      <text>+{value.toString()}</text>
+    <button onClick={onClick} style={_buttonStyle}>
+      <text style={_fontStyle}>+{value !== undefined ? value.toString() : 'undefined value'}</text>
+    </button>
+  )
+}
+
+const AddButtonKgs = ({ value, calculator }) => {
+  // const fontSize = Math.min(
+  //   (2 / value.toString().length) * buttonStyle.fontSize,
+  //   buttonStyle.fontSize
+  // )
+  const _buttonStyle = { ...buttonStyle, backgroundColor: kgColour }
+  const _fontStyle = { fontSize: 45 }
+  function onClick() {
+    calculator.setAns(calculator.calculaterAnswer + kgToLbs(value))
+  }
+  return (
+    <button onClick={onClick} style={_buttonStyle}>
+      <text style={_fontStyle}>+{value !== undefined ? value.toString() : 'undefined value'}</text>
     </button>
   )
 }
 
 const ResetButton = ({ onClick }) => {
+  const _buttonStyle = { ...buttonStyle, backgroundColor: 'red' }
+  const _fontStyle = { fontSize: numStyle.fontSize }
   return (
-    <button onClick={onClick} style={buttonStyle}>
-      <text>Reset</text>
+    <button onClick={onClick} style={_buttonStyle}>
+      <text style={_fontStyle}>Rst</text>
     </button>
   )
 }
 
 const UndoButton = ({ onClick }) => {
+  const _buttonStyle = { ...buttonStyle, backgroundColor: 'orange' }
+  const _fontStyle = { fontSize: numStyle.fontSize }
   return (
-    <button onClick={onClick} style={buttonStyle}>
-      <text>Undo</text>
+    <button onClick={onClick} style={_buttonStyle}>
+      <text style={_fontStyle}>Undo</text>
     </button>
   )
 }
 
 export default function Workout() {
-  const [calculaterAnswer, __setCalculaterAnswer] = useState(0)
-  const [calculatorPrevAnswers, __setCalculatorPrevAnswers] = useState([])
+  const [calculaterAnswer, __setCalculaterAnswer] = useState(0) // in lbs
+  const [calculatorPrevAnswers, __setCalculatorPrevAnswers] = useState([]) // elements are in lbs
 
-  function setCalculaterAnswer(value) {
-    __setCalculatorPrevAnswers([...calculatorPrevAnswers, calculaterAnswer])
-    __setCalculaterAnswer(value)
+  class Calculator {
+    constructor(
+      calculaterAnswer,
+      __setCalculaterAnswer,
+      calculatorPrevAnswers,
+      __setCalculatorPrevAnswers
+    ) {
+      this.calculaterAnswer = calculaterAnswer
+      this.__setCalculaterAnswer = __setCalculaterAnswer
+      this.calculatorPrevAnswers = calculatorPrevAnswers
+      this.__setCalculatorPrevAnswers = __setCalculatorPrevAnswers
+    }
+    setAns(value) {
+      this.__setCalculatorPrevAnswers([...this.calculatorPrevAnswers, this.calculaterAnswer])
+      this.__setCalculaterAnswer(value)
+    }
+    undoAns() {
+      this.__setCalculaterAnswer(
+        this.calculatorPrevAnswers.length > 0
+          ? this.calculatorPrevAnswers[this.calculatorPrevAnswers.length - 1]
+          : 0
+      )
+      this.__setCalculatorPrevAnswers(this.calculatorPrevAnswers.slice(0, -1))
+    }
+
+    resetAns() {
+      this.__setCalculaterAnswer(0)
+      this.__setCalculatorPrevAnswers([])
+    }
   }
 
-  function undoCalculaterAnswer() {
-    __setCalculaterAnswer(calculatorPrevAnswers[calculatorPrevAnswers.length - 1])
-    __setCalculatorPrevAnswers(calculatorPrevAnswers.slice(0, -1))
-  }
-
-  function resetCalculaterAnswer() {
-    __setCalculaterAnswer(0)
-    __setCalculatorPrevAnswers([])
-  }
+  const calculator = new Calculator(
+    calculaterAnswer,
+    __setCalculaterAnswer,
+    calculatorPrevAnswers,
+    __setCalculatorPrevAnswers
+  )
 
   return (
     <div>
-      {/* <h1 style={{ color: 'lightblue', fontSize: 50 }}>Calculator</h1> */}
-      <ResetButton onClick={() => resetCalculaterAnswer()} />
-      <UndoButton onClick={() => undoCalculaterAnswer()} />
+      <ResetButton onClick={() => calculator.resetAns()} />
+      <UndoButton onClick={() => calculator.undoAns()} />
       <Screen value={calculaterAnswer} />
       <br />
-      <AddButton value={45} onClick={() => setCalculaterAnswer(calculaterAnswer + 45)} />
-      <AddButton value={25} onClick={() => setCalculaterAnswer(calculaterAnswer + 25)} />
-      <AddButton value={15} onClick={() => setCalculaterAnswer(calculaterAnswer + 15)} />
-      <AddButton value={10} onClick={() => setCalculaterAnswer(calculaterAnswer + 10)} />
-      <AddButton value={5} onClick={() => setCalculaterAnswer(calculaterAnswer + 5)} />
-      <text style={unitStyle}>lbs</text>
+      <AddButtonLbs value={90} calculator={calculator} />
+      <AddButtonLbs value={50} calculator={calculator} />
+      <AddButtonLbs value={30} calculator={calculator} />
+      <AddButtonLbs value={20} calculator={calculator} />
       <br />
-      <AddButton value={90} onClick={() => setCalculaterAnswer(calculaterAnswer + 90)} />
-      <AddButton value={50} onClick={() => setCalculaterAnswer(calculaterAnswer + 50)} />
-      <AddButton value={30} onClick={() => setCalculaterAnswer(calculaterAnswer + 30)} />
-      <AddButton value={20} onClick={() => setCalculaterAnswer(calculaterAnswer + 20)} />
-      <AddButton value={2.5} onClick={() => setCalculaterAnswer(calculaterAnswer + 2.5)} />
-      <text style={unitStyle}>lbs</text>
+      <AddButtonLbs value={45} calculator={calculator} />
+      <AddButtonLbs value={25} calculator={calculator} />
+      <AddButtonLbs value={15} calculator={calculator} />
+      <AddButtonLbs value={10} calculator={calculator} />
       <br />
-      <AddButton value={25} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(25))} />
-      <AddButton value={20} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(20))} />
-      <AddButton value={15} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(15))} />
-      <AddButton value={10} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(10))} />
-      <AddButton value={5} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(5))} />
-      <text style={unitStyle}>kg</text>
+      <AddButtonLbs value={5} calculator={calculator} />
+      <AddButtonLbs value={2.5} calculator={calculator} />
+      <AddButtonKgs value={20} calculator={calculator} />
+      <AddButtonKgs value={15} calculator={calculator} />
       <br />
-      <AddButton value={50} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(50))} />
-      <AddButton value={40} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(40))} />
-      <AddButton value={30} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(30))} />
-      <AddButton value={20} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(20))} />
-      <AddButton value={10} onClick={() => setCalculaterAnswer(calculaterAnswer + kgToLbs(10))} />
-      <text style={unitStyle}>kg</text>
+      <AddButtonKgs value={50} calculator={calculator} />
+      <AddButtonKgs value={40} calculator={calculator} />
+      <AddButtonKgs value={30} calculator={calculator} />
+      <AddButtonKgs value={20} calculator={calculator} />
+      <br />
+      <AddButtonKgs value={25} calculator={calculator} />
+      <AddButtonKgs value={20} calculator={calculator} />
+      <AddButtonKgs value={15} calculator={calculator} />
+      <AddButtonKgs value={10} calculator={calculator} />
+      <br />
+      <AddButtonKgs value={5} calculator={calculator} />
+      <AddButtonKgs value={2.5} calculator={calculator} />
+      <AddButtonKgs value={1.25} calculator={calculator} />
+      <AddButtonLbs value={1.25} calculator={calculator} />
+      <br />
     </div>
   )
 }
