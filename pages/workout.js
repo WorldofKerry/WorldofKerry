@@ -6,17 +6,17 @@ const buttonStyle = {
   backgroundColor: 'lightblue',
   color: 'white',
   margin: 10,
-  width: 120,
-  height: 100,
+  width: 70,
+  height: 50,
 }
 const numStyle = {
   color: 'lightblue',
-  fontSize: 45,
+  fontSize: 30,
 }
 
 const unitStyle = {
   color: 'lightblue',
-  fontSize: 50,
+  fontSize: 15,
 }
 
 function lbsToKg(lbs) {
@@ -27,30 +27,31 @@ function kgToLbs(kg) {
   return kg * 2.20462262
 }
 
+function getOptimalLetterSpacing(textLength) {
+  return (2 - textLength) * 1.2
+}
+
 const Screen = ({ value }) => {
-  var numStyleLbs = { ...numStyle, color: lbsColour }
-  var numStyleKg = { ...numStyle, color: kgColour }
-  var unitStyleLbs = { ...unitStyle, color: lbsColour }
-  var unitStyleKg = { ...unitStyle, color: kgColour }
-  numStyleLbs.fontSize = numStyleLbs.fontSize * 1.5
-  numStyleKg.fontSize = numStyleKg.fontSize * 1.5
+  var _numStyleLbs = { ...numStyle, color: lbsColour }
+  var _numStyleKg = { ...numStyle, color: kgColour }
+  var _unitStyleLbs = { ...unitStyle, color: lbsColour }
+  var _unitStyleKg = { ...unitStyle, color: kgColour }
+  _numStyleLbs.fontSize = _numStyleLbs.fontSize * 1.5
+  _numStyleKg.fontSize = _numStyleKg.fontSize * 1.5
   return (
     <>
-      <text style={numStyleLbs}>{value.toFixed(0).toString()}</text>
-      <text style={unitStyleLbs}>lbs </text>
-      <text style={numStyleKg}> {lbsToKg(value).toFixed(0).toString()}</text>
-      <text style={unitStyleKg}>kg </text>
+      <text style={_numStyleLbs}>{value.toFixed(0).toString()}</text>
+      <text style={_unitStyleLbs}>lbs </text>
+      <text style={_numStyleKg}> {lbsToKg(value).toFixed(0).toString()}</text>
+      <text style={_unitStyleKg}>kg </text>
     </>
   )
 }
 
 const AddButtonLbs = ({ value, calculator }) => {
-  // const fontSize = Math.min(
-  //   (2 / value.toString().length) * buttonStyle.fontSize,
-  //   buttonStyle.fontSize
-  // )
+  const letterSpacing = getOptimalLetterSpacing(value.toString().length)
   const _buttonStyle = { ...buttonStyle, backgroundColor: lbsColour }
-  const _fontStyle = { fontSize: 45 }
+  const _fontStyle = { fontSize: numStyle.fontSize, letterSpacing: letterSpacing }
   function onClick() {
     calculator.setAns(calculator.calculaterAnswer + value)
   }
@@ -62,12 +63,9 @@ const AddButtonLbs = ({ value, calculator }) => {
 }
 
 const AddButtonKgs = ({ value, calculator }) => {
-  // const fontSize = Math.min(
-  //   (2 / value.toString().length) * buttonStyle.fontSize,
-  //   buttonStyle.fontSize
-  // )
+  const letterSpacing = getOptimalLetterSpacing(value.toString().length)
   const _buttonStyle = { ...buttonStyle, backgroundColor: kgColour }
-  const _fontStyle = { fontSize: 45 }
+  const _fontStyle = { fontSize: numStyle.fontSize, letterSpacing: letterSpacing }
   function onClick() {
     calculator.setAns(calculator.calculaterAnswer + kgToLbs(value))
   }
@@ -80,7 +78,8 @@ const AddButtonKgs = ({ value, calculator }) => {
 
 const ResetButton = ({ onClick }) => {
   const _buttonStyle = { ...buttonStyle, backgroundColor: 'red' }
-  const _fontStyle = { fontSize: numStyle.fontSize }
+  const letterSpacing = getOptimalLetterSpacing('Undo'.length)
+  const _fontStyle = { fontSize: numStyle.fontSize, letterSpacing: letterSpacing }
   return (
     <button onClick={onClick} style={_buttonStyle}>
       <text style={_fontStyle}>Rst</text>
@@ -90,7 +89,8 @@ const ResetButton = ({ onClick }) => {
 
 const UndoButton = ({ onClick }) => {
   const _buttonStyle = { ...buttonStyle, backgroundColor: 'orange' }
-  const _fontStyle = { fontSize: numStyle.fontSize }
+  const letterSpacing = getOptimalLetterSpacing('Undo'.length)
+  const _fontStyle = { fontSize: numStyle.fontSize, letterSpacing: letterSpacing }
   return (
     <button onClick={onClick} style={_buttonStyle}>
       <text style={_fontStyle}>Undo</text>
