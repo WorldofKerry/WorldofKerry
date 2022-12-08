@@ -1,7 +1,7 @@
 const projectsData = [
   {
-    title: 'Past Projects',
-    description: `A collection of past projects I've worked on.`,
+    title: 'Techy Projects',
+    description: `A collection of techy projects I've worked on. `,
     imgSrc: '/static/images/knowledge-1.png',
     href: '/tags/project',
   },
