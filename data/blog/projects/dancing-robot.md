@@ -7,9 +7,9 @@ draft: false
 summary: 'Really really cool robot that does really really cool moves and dances to really really cool music.'
 ---
 
-[Dancing Robot](https://www.youtube.com/shorts/2SrayvR5jl0)
+![Dancing Robot](/static/images/dancing-robot.png)
 
-# Dancing Robot
+[**Video Demo**](https://www.youtube.com/shorts/2SrayvR5jl0)
 
 Really really cool robot that does really really cool moves and dances to really really cool music.
 
